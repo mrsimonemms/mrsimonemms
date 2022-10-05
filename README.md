@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi there, I'm Simon 👋
 
-<!--
-**MrSimonEmms/mrsimonemms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm cloud-native engineer currently working on the Delivery and Operations Experience Team at [Gitpod](https://www.gitpod.io). I'm also a mentor at the [School of Code](https://www.schoolofcode.co.uk). I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire) in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
 
-Here are some ideas to get you started:
+I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer). I keep bees and love being outside in my garden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all things software engineering and developer culture.
+
+## 👯 I’m looking to collaborate on
+
+- CloudNative
+- IoT
+- Open Source
+- Things that you're passionate about and need some help
+- Mentoring new engineers
+
+## 🎤 Speaking
+
+I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [CloudNative Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - plase contact
+
+## 💬 Ask me about
+
+- Gitpod
+- Beekeeping
+- CloudNative computing
+
+## ⚡ Fun
+
+I once did [standup comedy. And didn't die](https://www.youtube.com/watch?v=iy1EvJXH2ks&ab_channel=SimonEmms).
+
+## 😄 Pronouns
+
+He/him
+
+## 📫 Contact
+
+Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me or put a time in my diary.
+
+I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
