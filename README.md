@@ -16,7 +16,7 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 
 ## 🎤 Speaking
 
-I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [CloudNative Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - plase contact
+I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [CloudNative Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - please contact me if you would like me to speak at your event.
 
 ## 💬 Ask me about
 
