@@ -8,7 +8,7 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 
 ## 👯 I’m looking to collaborate on
 
-- CloudNative
+- Cloud Native
 - IoT
 - Open Source
 - Things that you're passionate about and need some help
@@ -16,13 +16,13 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 
 ## 🎤 Speaking
 
-I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [CloudNative Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - please contact me if you would like me to speak at your event.
+I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [Cloud Native Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - please contact me if you would like me to speak at your event.
 
 ## 💬 Ask me about
 
 - Gitpod
 - Beekeeping
-- CloudNative computing
+- Cloud Native computing
 
 ## ⚡ Fun
 
