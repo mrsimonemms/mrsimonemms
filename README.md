@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-I'm a Cloud Native engineer currently working as a Principal Platform Engineer at [CTS](https://www.cts.co). I'm also a mentor at the [School of Code](https://www.schoolofcode.co.uk). I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire) in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
+I'm a Cloud Native engineer and a mentor at the [School of Code](https://www.schoolofcode.co.uk). I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire) in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
 
 I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer). I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
 
