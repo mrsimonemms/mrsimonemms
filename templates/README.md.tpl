@@ -10,19 +10,6 @@ I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
 I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all
 things software engineering and developer culture.
 
-## 👷 My recent contributions
-
-{{range recentContributions 9}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-## 🔭 My latest releases
-
-{{range recentReleases 9}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
-  {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
 ## 👯 I’m looking to collaborate on
 
 - Cloud Native
@@ -60,6 +47,19 @@ Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me
 or put a time in my [diary](https://diary.simonemms.com).
 
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
+
+## 👷 My recent contributions
+
+{{- range recentContributions 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{- end}}
+
+## 🔭 My latest releases
+
+{{- range recentReleases 10 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}),
+  {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
+{{- end }}
 
 ## ⚡ My stats
 
