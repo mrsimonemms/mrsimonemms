@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/mrsimonemms/new",
+  "commit": "3efdc2d2187bd3d625182ef40d2114277abe1379",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "mrsimonemms",
+      "description": " It's all about me ",
+      "_template": "https://github.com/mrsimonemms/new"
+    }
+  },
+  "directory": null,
+  "skip": [
+    ".git"
+  ]
+}
