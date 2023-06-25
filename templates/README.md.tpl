@@ -1,10 +1,14 @@
 # Hi there, I'm Simon 👋
 
-I'm a Cloud Native engineer and a mentor at the [School of Code](https://www.schoolofcode.co.uk). I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire) in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
+I'm a Cloud Native engineer and a mentor at the [School of Code](https://www.schoolofcode.co.uk).
+I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire)
+in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
 
-I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer). I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
+I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer).
+I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
 
-I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all things software engineering and developer culture.
+I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all
+things software engineering and developer culture.
 
 ## 👷 My recent contributions
 
@@ -15,7 +19,8 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 ## 🔭 My latest releases
 
 {{range recentReleases 9}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
+  {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 ## 👯 I’m looking to collaborate on
@@ -28,7 +33,11 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 
 ## 🎤 Speaking
 
-I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [Cloud Native Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - please contact me if you would like me to speak at your event.
+I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/),
+[Cloud Native Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com)
+and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always
+open to other speaking opportunities - please contact me if you would like me to
+speak at your event.
 
 ## 💬 Ask me about
 
@@ -47,12 +56,17 @@ He/him
 
 ## 📫 Contact
 
-Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me or put a time in my [diary](https://diary.simonemms.com).
+Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me
+or put a time in my [diary](https://diary.simonemms.com).
 
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## ⚡ My stats
 
-<img align="right" alt="mrsimonemms's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mrsimonemms&count_private=1&show_icons=true&" />
+<img
+  align="right"
+  alt="mrsimonemms's GitHub stats"
+  src="https://github-readme-stats.vercel.app/api?username=mrsimonemms&count_private=1&show_icons=true&"
+  />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsimonemms)
