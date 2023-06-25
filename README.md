@@ -1,10 +1,14 @@
 # Hi there, I'm Simon 👋
 
-I'm a Cloud Native engineer and a mentor at the [School of Code](https://www.schoolofcode.co.uk). I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire) in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
+I'm a Cloud Native engineer and a mentor at the [School of Code](https://www.schoolofcode.co.uk).
+I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire)
+in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
 
-I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer). I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
+I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer).
+I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
 
-I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all things software engineering and developer culture.
+I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all
+things software engineering and developer culture.
 
 ## 👷 My recent contributions
 
@@ -22,15 +26,24 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 ## 🔭 My latest releases
 
 
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.2](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.2), 3 days ago) - DevPod on Hetzner
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.1.10](https://github.com/loft-sh/devpod/releases/tag/v0.1.10), 4 days ago) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3), 2 weeks ago) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [cruft/cruft](https://github.com/cruft/cruft) ([2.15.0](https://github.com/cruft/cruft/releases/tag/2.15.0), 1 month ago) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-- [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.1.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.1.1), 4 months ago) - Make your development databases gobble up known data
-- [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3), 5 months ago) - Build your own pipelines
-- [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0), 7 months ago) - Trigger OpenFaaS jobs from Pushbullet
-- [gitpod-io/gitpod-microsoft-aks-guide](https://github.com/gitpod-io/gitpod-microsoft-aks-guide) ([2022.04.0](https://github.com/gitpod-io/gitpod-microsoft-aks-guide/releases/tag/2022.04.0), 1 year ago) - Running Gitpod in Azure AKS 
-- [openfaas/docs](https://github.com/openfaas/docs) ([0.9.6](https://github.com/openfaas/docs/releases/tag/0.9.6), 4 years ago) - Official Docs for OpenFaaS
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.2](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.2),
+  3 days ago) - DevPod on Hetzner
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.1.10](https://github.com/loft-sh/devpod/releases/tag/v0.1.10),
+  4 days ago) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3),
+  2 weeks ago) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [cruft/cruft](https://github.com/cruft/cruft) ([2.15.0](https://github.com/cruft/cruft/releases/tag/2.15.0),
+  1 month ago) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
+- [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.1.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.1.1),
+  4 months ago) - Make your development databases gobble up known data
+- [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
+  5 months ago) - Build your own pipelines
+- [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
+  7 months ago) - Trigger OpenFaaS jobs from Pushbullet
+- [gitpod-io/gitpod-microsoft-aks-guide](https://github.com/gitpod-io/gitpod-microsoft-aks-guide) ([2022.04.0](https://github.com/gitpod-io/gitpod-microsoft-aks-guide/releases/tag/2022.04.0),
+  1 year ago) - Running Gitpod in Azure AKS 
+- [openfaas/docs](https://github.com/openfaas/docs) ([0.9.6](https://github.com/openfaas/docs/releases/tag/0.9.6),
+  4 years ago) - Official Docs for OpenFaaS
 
 ## 👯 I’m looking to collaborate on
 
@@ -42,7 +55,11 @@ I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all thi
 
 ## 🎤 Speaking
 
-I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/), [Cloud Native Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com) and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always open to other speaking opportunities - please contact me if you would like me to speak at your event.
+I've [spoken](https://www.simonemms.com/speaking) at [DevOpsDays](https://devopsdays.org/),
+[Cloud Native Rejekts](https://cloud-native.rejekts.io/), [KubeHuddle](https://kubehuddle.com)
+and [KubeCon](https://www.cncf.io/kubecon-cloudnativecon-events/). I'm always
+open to other speaking opportunities - please contact me if you would like me to
+speak at your event.
 
 ## 💬 Ask me about
 
@@ -61,12 +78,17 @@ He/him
 
 ## 📫 Contact
 
-Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me or put a time in my [diary](https://diary.simonemms.com).
+Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me
+or put a time in my [diary](https://diary.simonemms.com).
 
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## ⚡ My stats
 
-<img align="right" alt="mrsimonemms's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mrsimonemms&count_private=1&show_icons=true&" />
+<img
+  align="right"
+  alt="mrsimonemms's GitHub stats"
+  src="https://github-readme-stats.vercel.app/api?username=mrsimonemms&count_private=1&show_icons=true&"
+  />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsimonemms)
