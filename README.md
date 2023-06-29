@@ -49,16 +49,16 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) -  (1 day ago)
+- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (today)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (today)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website (1 day ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - My blog about the things I make (1 day ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (2 days ago)
+- [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) -  (1 day ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner (4 days ago)
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker. (1 week ago)
 - [mrsimonemms/golang-cobra-starter](https://github.com/mrsimonemms/golang-cobra-starter) -  A starter repo for a Golang project with a Cobra CLI  (1 week ago)
 - [mrsimonemms/honey-labels](https://github.com/mrsimonemms/honey-labels) - Generate honey labels (3 weeks ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) -  (3 weeks ago)
-- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey (3 weeks ago)
 
 ## 🔭 My latest releases
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.0](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.0),
