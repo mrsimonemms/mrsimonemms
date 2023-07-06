@@ -49,19 +49,19 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made (3 days ago)
-- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (6 days ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (6 days ago)
+- [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made (4 days ago)
+- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (1 week ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (1 week ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website (1 week ago)
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) -  (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner (1 week ago)
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (2 weeks ago)
 - [mrsimonemms/golang-cobra-starter](https://github.com/mrsimonemms/golang-cobra-starter) -  A starter repo for a Golang project with a Cobra CLI  (2 weeks ago)
-- [mrsimonemms/honey-labels](https://github.com/mrsimonemms/honey-labels) - Generate honey labels (3 weeks ago)
+- [mrsimonemms/honey-labels](https://github.com/mrsimonemms/honey-labels) - Generate honey labels (4 weeks ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) -  (4 weeks ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.2.0-beta.1](https://github.com/loft-sh/devpod/releases/tag/v0.2.0-beta.1),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.2.0](https://github.com/loft-sh/devpod/releases/tag/v0.2.0),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.0](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.0),
   1 week ago) - 
@@ -76,7 +76,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
   6 months ago) - Build your own pipelines
 - [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
-  7 months ago) - Trigger OpenFaaS jobs from Pushbullet
+  8 months ago) - Trigger OpenFaaS jobs from Pushbullet
 - [gitpod-io/gitpod-microsoft-aks-guide](https://github.com/gitpod-io/gitpod-microsoft-aks-guide) ([2022.04.0](https://github.com/gitpod-io/gitpod-microsoft-aks-guide/releases/tag/2022.04.0),
   1 year ago) - Running Gitpod in Azure AKS 
 - [openfaas/docs](https://github.com/openfaas/docs) ([0.9.6](https://github.com/openfaas/docs/releases/tag/0.9.6),
