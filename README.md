@@ -64,8 +64,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/honey-labels](https://github.com/mrsimonemms/honey-labels) - Generate honey labels (1 month ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.0-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.0-beta.0),
-  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.0),
+  today) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.0](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.0),
   2 weeks ago) - 
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.3](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.3),
