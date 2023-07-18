@@ -5,7 +5,10 @@ I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/
 in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
 
 I'm a comedy nerd who once got a thumbs up from [Barry Cryer](https://en.wikipedia.org/wiki/Barry_Cryer).
-I keep bees, love being outside in my garden and enjoy tinkering in my workshop.
+I've also recorded at Abbey Road Studios and have a [number 9 chart hit with John
+Otway](https://www.youtube.com/watch?v=3BwOyVIlupg&ab_channel=JohnOtway) (and 900
+others). I keep bees, love being outside in my garden and enjoy tinkering in my
+workshop.
 
 I keep an [infrequent blog](https://www.simonemms.com/blog) where I talk all
 things software engineering and developer culture.
