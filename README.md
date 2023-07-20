@@ -52,11 +52,11 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (3 days ago)
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (4 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (1 week ago)
 - [mrsimonemms/devpod-provider-multipass](https://github.com/mrsimonemms/devpod-provider-multipass) - DevPod on Multipass (1 week ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made (2 weeks ago)
-- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (2 weeks ago)
+- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (3 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website (3 weeks ago)
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) -  (3 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner (3 weeks ago)
@@ -65,7 +65,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.0),
-  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.0](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.0),
   3 weeks ago) - 
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.3](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.3),
