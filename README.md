@@ -52,16 +52,16 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Reusable module for building k3s clusters (today)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (today)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (1 day ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner (2 days ago)
-- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Reusable module for building k3s clusters (2 days ago)
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (6 days ago)
 - [mrsimonemms/devpod-provider-multipass](https://github.com/mrsimonemms/devpod-provider-multipass) - DevPod on Multipass (1 week ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made (2 weeks ago)
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (3 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website (3 weeks ago)
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) -  (3 weeks ago)
-- [mrsimonemms/golang-cobra-starter](https://github.com/mrsimonemms/golang-cobra-starter) -  A starter repo for a Golang project with a Cobra CLI  (1 month ago)
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.1](https://github.com/loft-sh/devpod/releases/tag/v0.3.1),
