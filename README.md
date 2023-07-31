@@ -52,10 +52,10 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (2 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (5 days ago)
-- [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around (5 days ago)
-- [Waterdrips/mockPG](https://github.com/Waterdrips/mockPG) -  (5 days ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (3 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (6 days ago)
+- [Waterdrips/mockPG](https://github.com/Waterdrips/mockPG) -  (6 days ago)
+- [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around (6 days ago)
 - [mrsimonemms/golang-cobra-starter](https://github.com/mrsimonemms/golang-cobra-starter) -  A starter repo for a Golang project with a Cobra CLI  (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner (1 week ago)
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (2 weeks ago)
@@ -65,7 +65,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.4-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.4-alpha.0),
-  2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4),
   1 week ago) - DevPod on Hetzner
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.0](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.0),
