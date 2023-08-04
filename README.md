@@ -52,8 +52,8 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (1 day ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (6 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (2 days ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (1 week ago)
 - [Waterdrips/mockPG](https://github.com/Waterdrips/mockPG) -  (1 week ago)
 - [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around (1 week ago)
 - [mrsimonemms/golang-cobra-starter](https://github.com/mrsimonemms/golang-cobra-starter) -  A starter repo for a Golang project with a Cobra CLI  (1 week ago)
@@ -64,14 +64,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say toodaloo to your todos (1 month ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.4-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.4-alpha.0),
-  6 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.4-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.4-beta.0),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4),
   2 weeks ago) - DevPod on Hetzner
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.0](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.0),
   1 month ago) - 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3),
-  1 month ago) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+  2 months ago) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [cruft/cruft](https://github.com/cruft/cruft) ([2.15.0](https://github.com/cruft/cruft/releases/tag/2.15.0),
   2 months ago) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.1.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.1.1),
