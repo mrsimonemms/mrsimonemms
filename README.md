@@ -52,9 +52,9 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks (1 day ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (1 day ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (4 days ago)
+- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks (2 days ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (2 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (5 days ago)
 - [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around (4 weeks ago)
 - [Waterdrips/mockPG](https://github.com/Waterdrips/mockPG) -  (4 weeks ago)
 - [mrsimonemms/golang-cobra-starter](https://github.com/mrsimonemms/golang-cobra-starter) -  A starter repo for a Golang project with a Cobra CLI  (1 month ago)
