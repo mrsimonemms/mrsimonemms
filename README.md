@@ -52,8 +52,8 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks (4 days ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (4 days ago)
+- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks (5 days ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images (5 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started (1 week ago)
 - [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around (1 month ago)
 - [Waterdrips/mockPG](https://github.com/Waterdrips/mockPG) -  (1 month ago)
@@ -64,7 +64,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made (1 month ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.5-alpha.3](https://github.com/loft-sh/devpod/releases/tag/v0.3.5-alpha.3),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.5](https://github.com/loft-sh/devpod/releases/tag/v0.3.5),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.2](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.2),
   2 weeks ago) - 
