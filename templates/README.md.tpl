@@ -54,7 +54,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 ## 👷 My recent contributions
 
 {{- range recentContributions 10 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+  ({{ humanize .OccurredAt }})
 {{- end}}
 
 ## 🔭 My latest releases
