@@ -31,7 +31,8 @@ speak at your event.
 
 ## 💬 Ask me about
 
-- Cloud development environments
+- Google Cloud Platform
+- Gitpod
 - Beekeeping
 - Cloud Native computing
 
