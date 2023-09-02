@@ -52,15 +52,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
-  (1 day ago)
+  (2 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
-  (3 days ago)
-- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
-  (3 days ago)
-- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
   (4 days ago)
+- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
+  (4 days ago)
+- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
+  (5 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
   (1 week ago)
 - [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around
@@ -73,7 +73,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.7-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.3.7-alpha.0),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.7](https://github.com/loft-sh/devpod/releases/tag/v0.3.7),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.2](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.2),
   3 weeks ago) - 
@@ -86,7 +86,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.1.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.1.1),
   6 months ago) - Make your development databases gobble up known data
 - [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
-  7 months ago) - Build your own pipelines
+  8 months ago) - Build your own pipelines
 - [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
   9 months ago) - Trigger OpenFaaS jobs from Pushbullet
 - [openfaas/docs](https://github.com/openfaas/docs) ([0.9.6](https://github.com/openfaas/docs/releases/tag/0.9.6),
