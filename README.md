@@ -51,16 +51,16 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
-  (2 days ago)
-- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
-  (2 days ago)
-- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
-  (2 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
-  (4 days ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
-  (6 days ago)
+  (1 day ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
+  (1 day ago)
+- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
+  (3 days ago)
+- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
+  (3 days ago)
+- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
+  (3 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (1 week ago)
 - [mrsimonemms/blank](https://github.com/mrsimonemms/blank) - A blank project for noodling around
@@ -74,9 +74,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.3](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.3),
-  2 days ago) - 
+  3 days ago) - 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.3.7](https://github.com/loft-sh/devpod/releases/tag/v0.3.7),
-  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  6 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4),
   1 month ago) - DevPod on Hetzner
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3),
