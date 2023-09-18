@@ -51,20 +51,20 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
+  (1 day ago)
 - [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
   (1 day ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (3 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
-  (5 days ago)
+  (1 day ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
-  (5 days ago)
-- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
   (6 days ago)
 - [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
-  (6 days ago)
+  (1 week ago)
+- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
+  (1 week ago)
 - [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/homelab](https://github.com/mrsimonemms/homelab) - My homelab setup
   (1 week ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
@@ -74,11 +74,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.0-alpha.4](https://github.com/loft-sh/devpod/releases/tag/v0.4.0-alpha.4),
-  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.4](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.4),
-  6 days ago) - 
+  1 week ago) - 
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4),
-  1 month ago) - DevPod on Hetzner
+  2 months ago) - DevPod on Hetzner
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3),
   3 months ago) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [cruft/cruft](https://github.com/cruft/cruft) ([2.15.0](https://github.com/cruft/cruft/releases/tag/2.15.0),
