@@ -74,7 +74,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.0-alpha.4](https://github.com/loft-sh/devpod/releases/tag/v0.4.0-alpha.4),
-  2 weeks ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  3 weeks ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.4](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.4),
   3 weeks ago) - 
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4),
@@ -88,7 +88,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
   9 months ago) - Build your own pipelines
 - [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
-  10 months ago) - Trigger OpenFaaS jobs from Pushbullet
+  11 months ago) - Trigger OpenFaaS jobs from Pushbullet
 - [openfaas/docs](https://github.com/openfaas/docs) ([0.9.6](https://github.com/openfaas/docs/releases/tag/0.9.6),
   5 years ago) - Official Docs for OpenFaaS
 
