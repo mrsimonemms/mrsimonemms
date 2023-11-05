@@ -74,7 +74,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.1](https://github.com/loft-sh/devpod/releases/tag/v0.4.1),
-  2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
   2 weeks ago) - DevPod on Hetzner
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.4](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.4),
