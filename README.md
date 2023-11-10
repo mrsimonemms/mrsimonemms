@@ -54,9 +54,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (4 weeks ago)
+  (1 month ago)
 - [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
   (1 month ago)
 - [mrsimonemms/homelab](https://github.com/mrsimonemms/homelab) - My homelab setup
@@ -70,15 +70,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (1 month ago)
 - [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
-  (1 month ago)
+  (2 months ago)
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.2](https://github.com/loft-sh/devpod/releases/tag/v0.4.2),
-  2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
-  2 weeks ago) - DevPod on Hetzner
+  3 weeks ago) - DevPod on Hetzner
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.4](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.4),
-  1 month ago) - 
+  2 months ago) - 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3),
   5 months ago) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [cruft/cruft](https://github.com/cruft/cruft) ([2.15.0](https://github.com/cruft/cruft/releases/tag/2.15.0),
@@ -89,8 +89,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   10 months ago) - Build your own pipelines
 - [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
   1 year ago) - Trigger OpenFaaS jobs from Pushbullet
-- [openfaas/docs](https://github.com/openfaas/docs) ([0.9.6](https://github.com/openfaas/docs/releases/tag/0.9.6),
-  5 years ago) - Official Docs for OpenFaaS
 
 ## ⚡ My stats
 
