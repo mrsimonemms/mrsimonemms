@@ -52,7 +52,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (4 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
@@ -74,7 +74,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.5](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.5),
-  6 days ago) - 
+  1 week ago) - 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.2](https://github.com/loft-sh/devpod/releases/tag/v0.4.2),
   1 week ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
