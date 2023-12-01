@@ -73,10 +73,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 
 ## 🔭 My latest releases
-- [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.5](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.5),
-  2 weeks ago) - 
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.2](https://github.com/loft-sh/devpod/releases/tag/v0.4.2),
-  3 weeks ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.0-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.0-alpha.0),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.6](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.6),
+  1 day ago) - 
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
   1 month ago) - DevPod on Hetzner
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ([2022.11.3](https://github.com/gitpod-io/gitpod/releases/tag/2022.11.3),
@@ -86,7 +86,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.1.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.1.1),
   9 months ago) - Make your development databases gobble up known data
 - [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
-  10 months ago) - Build your own pipelines
+  11 months ago) - Build your own pipelines
 - [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
   1 year ago) - Trigger OpenFaaS jobs from Pushbullet
 
