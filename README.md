@@ -87,8 +87,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   9 months ago) - Make your development databases gobble up known data
 - [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
   11 months ago) - Build your own pipelines
-- [mrsimonemms/openfaas-pushbullet-connector](https://github.com/mrsimonemms/openfaas-pushbullet-connector) ([v0.1.0](https://github.com/mrsimonemms/openfaas-pushbullet-connector/releases/tag/v0.1.0),
-  1 year ago) - Trigger OpenFaaS jobs from Pushbullet
 
 ## ⚡ My stats
 
