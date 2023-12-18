@@ -63,18 +63,18 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
   (2 months ago)
-- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
-  (3 months ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (3 months ago)
+- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
   (3 months ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (3 months ago)
-- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
+- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
   (3 months ago)
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.0-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.0-alpha.1),
-  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  6 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.6](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.6),
   2 weeks ago) - 
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
