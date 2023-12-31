@@ -69,7 +69,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (3 months ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (3 months ago)
-- [mrsimonemms/blog](https://github.com/mrsimonemms/blog) - Easily create your own blog
+- [mrsimonemms/priorslee-honey](https://github.com/mrsimonemms/priorslee-honey) - Priorslee honey
   (3 months ago)
 
 ## 🔭 My latest releases
@@ -86,7 +86,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.1.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.1.1),
   10 months ago) - Make your development databases gobble up known data
 - [mrsimonemms/conveyor-belt](https://github.com/mrsimonemms/conveyor-belt) ([v0.0.3](https://github.com/mrsimonemms/conveyor-belt/releases/tag/v0.0.3),
-  11 months ago) - Build your own pipelines
+  1 year ago) - Build your own pipelines
 
 ## ⚡ My stats
 
