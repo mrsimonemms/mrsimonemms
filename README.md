@@ -51,6 +51,8 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
+  (1 day ago)
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) - Drop-in replacement for Express session using a cookie
   (2 weeks ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
@@ -59,22 +61,20 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (3 months ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (4 months ago)
-- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
-  (4 months ago)
 - [mrsimonemms/homelab](https://github.com/mrsimonemms/homelab) - My homelab setup
   (4 months ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
   (4 months ago)
 - [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
-  (4 months ago)
+  (5 months ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (4 months ago)
+  (5 months ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (5 months ago)
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.2](https://github.com/loft-sh/devpod/releases/tag/v0.5.2),
-  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.7](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.7),
   1 week ago) - 
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
