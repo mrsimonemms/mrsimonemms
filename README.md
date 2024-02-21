@@ -64,7 +64,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/homelab](https://github.com/mrsimonemms/homelab) - My homelab setup
   (4 months ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
-  (4 months ago)
+  (5 months ago)
 - [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
   (5 months ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
@@ -73,7 +73,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (5 months ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.3](https://github.com/loft-sh/devpod/releases/tag/v0.5.3),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.4-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.4-alpha.1),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.7](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.7),
   2 weeks ago) - 
