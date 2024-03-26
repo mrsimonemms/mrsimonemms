@@ -69,7 +69,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (6 months ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
   (6 months ago)
-- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (6 months ago)
 
 ## 🔭 My latest releases
