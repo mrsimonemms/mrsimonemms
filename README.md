@@ -51,6 +51,8 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
+  (1 day ago)
 - [open-cloud-dev/new](https://github.com/open-cloud-dev/new) - Bootstrap a new repo
   (2 weeks ago)
 - [open-cloud-dev/devcontainers](https://github.com/open-cloud-dev/devcontainers) - Pre-build development container images
@@ -68,8 +70,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/homelab](https://github.com/mrsimonemms/homelab) - My homelab setup
   (6 months ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
-  (6 months ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (6 months ago)
 
 ## 🔭 My latest releases
