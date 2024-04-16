@@ -45,15 +45,14 @@ He/him
 
 ## 📫 Contact
 
-Please contact me in one of the following ways
+Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me
+or put a time in my [diary](https://diary.simonemms.com).
 
- - [hey.new/simon](https://hey.new/simon)
- - [SimonEmms.com](https://simonemms.com)
- - [Calendly](https://diary.simonemms.com)
- - [Twitter](https://twitter/theshroppiebeek)
- - [LinkedIn](https://www.linkedin.com/in/simonemms)
+I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
+  (today)
 - [mrsimonemms/vpn](https://github.com/mrsimonemms/vpn) - My VPN setup
   (today)
 - [mrsimonemms/bluebell.family](https://github.com/mrsimonemms/bluebell.family) - 
@@ -72,8 +71,6 @@ Please contact me in one of the following ways
   (2 months ago)
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) - Drop-in replacement for Express session using a cookie
   (2 months ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 months ago)
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.5](https://github.com/loft-sh/devpod/releases/tag/v0.5.5),
