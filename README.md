@@ -45,10 +45,13 @@ He/him
 
 ## 📫 Contact
 
-Please visit [SimonEmms.com](https://www.simonemms.com). You can either email me
-or put a time in my [diary](https://diary.simonemms.com).
+Please contact me in one of the following ways
 
-I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
+ - [hey.new/simon](https://hey.new/simon)
+ - [SimonEmms.com](https://simonemms.com)
+ - [Calendly](https://diary.simonemms.com)
+ - [Twitter](https://twitter/theshroppiebeek)
+ - [LinkedIn](https://www.linkedin.com/in/simonemms)
 
 ## 👷 My recent contributions
 - [mrsimonemms/vpn](https://github.com/mrsimonemms/vpn) - My VPN setup
