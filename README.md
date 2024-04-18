@@ -52,9 +52,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - A blank project for getting started
-  (1 day ago)
+  (2 days ago)
 - [mrsimonemms/vpn](https://github.com/mrsimonemms/vpn) - My VPN setup
-  (1 day ago)
+  (2 days ago)
 - [mrsimonemms/bluebell.family](https://github.com/mrsimonemms/bluebell.family) - 
   (1 week ago)
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
@@ -73,8 +73,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.5](https://github.com/loft-sh/devpod/releases/tag/v0.5.5),
-  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.6-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.6-alpha.1),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
   1 week ago) - Say goodbye to your todos
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.7](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.7),
