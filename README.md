@@ -74,13 +74,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.6-alpha.4](https://github.com/loft-sh/devpod/releases/tag/v0.5.6-alpha.4),
-  3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
   3 weeks ago) - Say goodbye to your todos
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.7](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.7),
   2 months ago) - 
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
-  2 months ago) - Drop-in replacement for Express session using a cookie
+  3 months ago) - Drop-in replacement for Express session using a cookie
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
   6 months ago) - DevPod on Hetzner
 
