@@ -73,7 +73,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.6](https://github.com/loft-sh/devpod/releases/tag/v0.5.6),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.7-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.7-alpha.0),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
   3 weeks ago) - Say goodbye to your todos
