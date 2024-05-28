@@ -52,15 +52,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/k3s-manager](https://github.com/mrsimonemms/k3s-manager) - Automatically manage a k3s deployment
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
-  (5 days ago)
-- [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
-  (5 days ago)
-- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
   (6 days ago)
+- [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
+  (6 days ago)
+- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
+  (1 week ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
   (1 week ago)
 - [mrsimonemms/bluebell.family](https://github.com/mrsimonemms/bluebell.family) - 
@@ -73,8 +73,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.9-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.9-alpha.1),
-  3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.11](https://github.com/loft-sh/devpod/releases/tag/v0.5.11),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
   1 month ago) - Say goodbye to your todos
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.7](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.7),
