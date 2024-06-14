@@ -51,15 +51,17 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (1 day ago)
-- [mrsimonemms/k3s-manager](https://github.com/mrsimonemms/k3s-manager) - Automatically manage a k3s deployment
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (2 days ago)
+- [mrsimonemms/k3s-manager](https://github.com/mrsimonemms/k3s-manager) - Automatically manage a k3s deployment
+  (3 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (2 weeks ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (2 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
+  (2 weeks ago)
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (2 weeks ago)
 - [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
   (3 weeks ago)
@@ -69,14 +71,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (3 weeks ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
   (4 weeks ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (4 weeks ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.14-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.14-alpha.0),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.15](https://github.com/loft-sh/devpod/releases/tag/v0.5.15),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.8](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.8),
-  1 day ago) - 
+  2 days ago) - 
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
   2 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
