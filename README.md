@@ -51,25 +51,25 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
-  (4 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (4 days ago)
+  (1 day ago)
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
+  (2 days ago)
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
+  (3 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
+  (5 days ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (1 week ago)
 - [mrsimonemms/k3s-manager](https://github.com/mrsimonemms/k3s-manager) - Automatically manage a k3s deployment
   (1 week ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (3 weeks ago)
-- [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
-  (4 weeks ago)
 - [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
-  (4 weeks ago)
-- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
   (1 month ago)
-- [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
+- [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (1 month ago)
 
 ## 🔭 My latest releases
@@ -77,6 +77,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   1 week ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.8](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.8),
   1 week ago) - 
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.10](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.10),
+  1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.23](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.23),
+  1 week ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
   2 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
