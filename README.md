@@ -52,13 +52,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 days ago)
+  (1 day ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
-  (3 days ago)
-- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
   (4 days ago)
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
+  (5 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (1 week ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
@@ -74,7 +74,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.16-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.16-alpha.0),
-  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.8](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.8),
   1 week ago) - 
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.10](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.10),
