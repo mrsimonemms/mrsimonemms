@@ -52,9 +52,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (3 days ago)
+  (1 day ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
-  (6 days ago)
+  (1 week ago)
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
   (1 week ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
@@ -67,16 +67,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (4 weeks ago)
-- [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
-  (1 month ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
+  (1 month ago)
+- [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
   (1 month ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.16-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.16-alpha.0),
-  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.16-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.16-alpha.1),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [markedjs/marked-mangle](https://github.com/markedjs/marked-mangle) ([v1.1.8](https://github.com/markedjs/marked-mangle/releases/tag/v1.1.8),
-  1 week ago) - 
+  2 weeks ago) - 
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.10](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.10),
   2 weeks ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.23](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.23),
