@@ -51,14 +51,12 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemmsorg/gitops](https://github.com/mrsimonemmsorg/gitops) - 
-  (4 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (6 days ago)
+  (1 week ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
   (1 week ago)
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (2 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
@@ -66,15 +64,17 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (2 weeks ago)
 - [mrsimonemms/k3s-manager](https://github.com/mrsimonemms/k3s-manager) - Automatically manage a k3s deployment
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (1 month ago)
+- [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
   (1 month ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (1 month ago)
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.17-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.17-alpha.0),
-  3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.10](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.10),
   3 weeks ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.23](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.23),
