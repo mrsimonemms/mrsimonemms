@@ -74,9 +74,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.11](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.11),
-  4 days ago) - a template of gitops infrastucture for consumption by kubefirst users
+  5 days ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.24](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.24),
-  4 days ago) - Kubefirst API that serves console frontend
+  5 days ago) - Kubefirst API that serves console frontend
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.17-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.17-alpha.0),
   1 week ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
