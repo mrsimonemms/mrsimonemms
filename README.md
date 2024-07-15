@@ -52,9 +52,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (5 days ago)
+  (6 days ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
-  (1 week ago)
+  (2 weeks ago)
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
   (3 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
