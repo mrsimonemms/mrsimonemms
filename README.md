@@ -52,13 +52,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (6 days ago)
+  (1 week ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
   (2 weeks ago)
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
-  (3 weeks ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (4 weeks ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
+  (1 month ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (1 month ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
@@ -73,8 +73,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.11](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.11),
-  1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.12](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.12),
+  1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.24](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.24),
   1 week ago) - Kubefirst API that serves console frontend
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.17-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.17-alpha.0),
@@ -84,7 +84,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   5 months ago) - Drop-in replacement for Express session using a cookie
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
-  8 months ago) - DevPod on Hetzner
+  9 months ago) - DevPod on Hetzner
 
 ## ⚡ My stats
 
