@@ -51,6 +51,8 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
+  (1 day ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 week ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
@@ -69,18 +71,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 - [mrsimonemms/sveltekit-content](https://github.com/mrsimonemms/sveltekit-content) - Content driven website using SvelteKit
   (1 month ago)
-- [mrsimonemms/dotfiles](https://github.com/mrsimonemms/dotfiles) - My dotfiles setup
-  (1 month ago)
 
 ## 🔭 My latest releases
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.25](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.25),
+  1 day ago) - Kubefirst API that serves console frontend
+- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
+  1 day ago) - Say goodbye to your todos
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.12](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.12),
-  1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
-- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.24](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.24),
-  1 week ago) - Kubefirst API that serves console frontend
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.17-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.17-alpha.0),
-  2 weeks ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.2](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.2),
-  3 months ago) - Say goodbye to your todos
+  2 days ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   5 months ago) - Drop-in replacement for Express session using a cookie
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
