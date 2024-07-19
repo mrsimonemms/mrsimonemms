@@ -52,9 +52,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [kubefirst/.github](https://github.com/kubefirst/.github) - GitHub config
-  (1 day ago)
-- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
   (2 days ago)
+- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
+  (3 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 week ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
@@ -73,12 +73,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.13](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.13),
+  1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.26](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.26),
-  1 day ago) - Kubefirst API that serves console frontend
+  2 days ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
-  2 days ago) - Say goodbye to your todos
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.12](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.12),
-  3 days ago) - a template of gitops infrastucture for consumption by kubefirst users
+  3 days ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   5 months ago) - Drop-in replacement for Express session using a cookie
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
