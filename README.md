@@ -52,11 +52,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) - How to run effective incident post-morterms
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (5 days ago)
-- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
   (6 days ago)
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
+  (1 week ago)
 - [kubefirst/.github](https://github.com/kubefirst/.github) - GitHub config
   (1 week ago)
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
@@ -65,16 +65,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
   (3 weeks ago)
-- [mrsimonemmsorg/gitops](https://github.com/mrsimonemmsorg/gitops) - 
-  (3 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (1 month ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (1 month ago)
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (1 month ago)
 
 ## 🔭 My latest releases
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.13](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.13),
-  6 days ago) - a template of gitops infrastucture for consumption by kubefirst users
+  1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([v0.1.26](https://github.com/kubefirst/kubefirst-api/releases/tag/v0.1.26),
   1 week ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
