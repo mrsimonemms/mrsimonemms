@@ -52,9 +52,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
-  (2 days ago)
+  (3 days ago)
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
   (1 week ago)
 - [mrsimonemms/bluebell.family](https://github.com/mrsimonemms/bluebell.family) - 
@@ -66,19 +66,19 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [kubefirst/.github](https://github.com/kubefirst/.github) - GitHub config
   (2 weeks ago)
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
-  (2 weeks ago)
+  (3 weeks ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
   (3 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (1 month ago)
 
 ## 🔭 My latest releases
-- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([0.95.0](https://github.com/kubefirst/kubefirst-api/releases/tag/0.95.0),
-  4 days ago) - Kubefirst API that serves console frontend
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([0.96.0](https://github.com/kubefirst/kubefirst-api/releases/tag/0.96.0),
+  1 day ago) - Kubefirst API that serves console frontend
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.13](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.13),
   2 weeks ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
-  2 weeks ago) - Say goodbye to your todos
+  3 weeks ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   6 months ago) - Drop-in replacement for Express session using a cookie
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
