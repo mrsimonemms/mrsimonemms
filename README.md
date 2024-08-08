@@ -51,16 +51,18 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
-  (1 day ago)
-- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
-  (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (1 day ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
   (1 day ago)
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
+  (2 days ago)
+- [kubefirst/console](https://github.com/kubefirst/console) - Kubefirst app console
+  (2 days ago)
+- [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
+  (2 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/bluebell.family](https://github.com/mrsimonemms/bluebell.family) - 
   (1 week ago)
 - [mrsimonemms/post-mortems](https://github.com/mrsimonemms/post-mortems) - How to run effective incident post-morterms
@@ -69,16 +71,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [kubefirst/.github](https://github.com/kubefirst/.github) - GitHub config
   (3 weeks ago)
-- [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) - Say goodbye to your todos
-  (3 weeks ago)
 
 ## 🔭 My latest releases
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.15](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.15),
-  1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.15](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.15),
-  1 day ago) - The Kubefirst Open Source Platform
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16),
+  today) - a template of gitops infrastucture for consumption by kubefirst users
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.16](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.16),
+  today) - The Kubefirst Open Source Platform
+- [kubefirst/console](https://github.com/kubefirst/console) ([2.52.0](https://github.com/kubefirst/console/releases/tag/2.52.0),
+  1 day ago) - Kubefirst app console
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([0.97.0](https://github.com/kubefirst/kubefirst-api/releases/tag/0.97.0),
-  1 day ago) - Kubefirst API that serves console frontend
+  2 days ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   3 weeks ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
