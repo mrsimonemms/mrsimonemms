@@ -51,42 +51,42 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [kubefirst/gitops-catalog](https://github.com/kubefirst/gitops-catalog) - kubefirst gitops catalog repository
+- [mrsimonemms/nvidia-helm-mirror](https://github.com/mrsimonemms/nvidia-helm-mirror) - Mirror for the NVIDIA Helm charts
   (1 day ago)
 - [kubefirst/console](https://github.com/kubefirst/console) - Kubefirst app console
-  (1 day ago)
+  (2 days ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
-  (1 day ago)
+  (2 days ago)
+- [kubefirst/gitops-catalog](https://github.com/kubefirst/gitops-catalog) - kubefirst gitops catalog repository
+  (2 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (1 day ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (2 days ago)
 - [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
-  (2 days ago)
+  (3 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
+  (3 days ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
   (1 week ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
   (1 week ago)
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) - Kubefirst API that serves console frontend
   (1 week ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (1 week ago)
 
 ## 🔭 My latest releases
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16),
-  6 days ago) - a template of gitops infrastucture for consumption by kubefirst users
+  1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.16](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.16),
-  6 days ago) - The Kubefirst Open Source Platform
+  1 week ago) - The Kubefirst Open Source Platform
 - [kubefirst/console](https://github.com/kubefirst/console) ([2.52.0](https://github.com/kubefirst/console/releases/tag/2.52.0),
   1 week ago) - Kubefirst app console
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([0.97.0](https://github.com/kubefirst/kubefirst-api/releases/tag/0.97.0),
   1 week ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
-  4 weeks ago) - Say goodbye to your todos
+  1 month ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   6 months ago) - Drop-in replacement for Express session using a cookie
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.5](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.5),
-  9 months ago) - DevPod on Hetzner
+  10 months ago) - DevPod on Hetzner
 
 ## ⚡ My stats
 
