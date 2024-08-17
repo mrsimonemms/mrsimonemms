@@ -52,37 +52,37 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/helm-charts](https://github.com/mrsimonemms/helm-charts) - My Helm charts
-  (1 day ago)
-- [mrsimonemms/nvidia-helm-mirror](https://github.com/mrsimonemms/nvidia-helm-mirror) - Mirror for the NVIDIA Helm charts
   (2 days ago)
+- [mrsimonemms/nvidia-helm-mirror](https://github.com/mrsimonemms/nvidia-helm-mirror) - Mirror for the NVIDIA Helm charts
+  (3 days ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
-  (3 days ago)
+  (4 days ago)
 - [kubefirst/gitops-catalog](https://github.com/kubefirst/gitops-catalog) - kubefirst gitops catalog repository
-  (3 days ago)
+  (4 days ago)
 - [kubefirst/console](https://github.com/kubefirst/console) - Kubefirst app console
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
-  (4 days ago)
+  (5 days ago)
 - [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
   (1 week ago)
 - [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) - a template of gitops infrastucture for consumption by kubefirst users
   (1 week ago)
 
 ## 🔭 My latest releases
-- [kubefirst/console](https://github.com/kubefirst/console) ([2.53.0](https://github.com/kubefirst/console/releases/tag/2.53.0),
+- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.17](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.17),
+  1 day ago) - a template of gitops infrastucture for consumption by kubefirst users
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.17](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.17),
+  1 day ago) - The Kubefirst Open Source Platform
+- [kubefirst/console](https://github.com/kubefirst/console) ([2.55.0](https://github.com/kubefirst/console/releases/tag/2.55.0),
   1 day ago) - Kubefirst app console
 - [kubefirst/kubefirst-api](https://github.com/kubefirst/kubefirst-api) ([0.98.0](https://github.com/kubefirst/kubefirst-api/releases/tag/0.98.0),
-  1 day ago) - Kubefirst API that serves console frontend
+  2 days ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/helm-charts](https://github.com/mrsimonemms/helm-charts) ([gitpod-monitoring-0.0.0](https://github.com/mrsimonemms/helm-charts/releases/tag/gitpod-monitoring-0.0.0),
-  1 day ago) - My Helm charts
-- [kubefirst/gitops-template](https://github.com/kubefirst/gitops-template) ([v2.4.16](https://github.com/kubefirst/gitops-template/releases/tag/v2.4.16),
-  1 week ago) - a template of gitops infrastucture for consumption by kubefirst users
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) ([v2.4.16](https://github.com/kubefirst/kubefirst/releases/tag/v2.4.16),
-  1 week ago) - The Kubefirst Open Source Platform
+  2 days ago) - My Helm charts
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   1 month ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
