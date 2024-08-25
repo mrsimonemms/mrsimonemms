@@ -51,26 +51,26 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (1 day ago)
 - [konstructio/console](https://github.com/konstructio/console) - Kubefirst app console
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/helm-charts](https://github.com/mrsimonemms/helm-charts) - My Helm charts
   (1 week ago)
 - [mrsimonemms/nvidia-helm-mirror](https://github.com/mrsimonemms/nvidia-helm-mirror) - Mirror for the NVIDIA Helm charts
   (1 week ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (1 week ago)
-- [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
-  (1 week ago)
 - [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
   (1 week ago)
-- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
+- [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
   (1 week ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (1 week ago)
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (2 weeks ago)
+- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
+  (1 week ago)
 
 ## 🔭 My latest releases
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.4.17](https://github.com/konstructio/gitops-template/releases/tag/v2.4.17),
