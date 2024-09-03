@@ -52,13 +52,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (4 days ago)
-- [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
   (5 days ago)
 - [mrsimonemms/goto](https://github.com/mrsimonemms/goto) - Orchestrate simple tasks in Golang
-  (5 days ago)
-- [mrsimonemms/helm-charts](https://github.com/mrsimonemms/helm-charts) - My Helm charts
   (6 days ago)
+- [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
+  (6 days ago)
+- [mrsimonemms/helm-charts](https://github.com/mrsimonemms/helm-charts) - My Helm charts
+  (1 week ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 week ago)
 - [konstructio/console](https://github.com/konstructio/console) - Kubefirst app console
@@ -68,21 +68,21 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/nvidia-helm-mirror](https://github.com/mrsimonemms/nvidia-helm-mirror) - Mirror for the NVIDIA Helm charts
   (2 weeks ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (2 weeks ago)
+  (3 weeks ago)
 
 ## 🔭 My latest releases
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.5.11](https://github.com/konstructio/gitops-template/releases/tag/v2.5.11),
-  2 days ago) - upstream template for your open source gitops repository
+  3 days ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.5.11](https://github.com/konstructio/kubefirst/releases/tag/v2.5.11),
-  2 days ago) - The Kubefirst Open Source Platform
+  3 days ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.105.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.105.0),
-  2 days ago) - Kubefirst API that serves console frontend
+  3 days ago) - Kubefirst API that serves console frontend
 - [konstructio/console](https://github.com/konstructio/console) ([v2.58.0](https://github.com/konstructio/console/releases/tag/v2.58.0),
-  3 days ago) - Kubefirst app console
+  4 days ago) - Kubefirst app console
 - [mrsimonemms/helm-charts](https://github.com/mrsimonemms/helm-charts) ([gitpod-monitoring-0.1.0](https://github.com/mrsimonemms/helm-charts/releases/tag/gitpod-monitoring-0.1.0),
-  6 days ago) - My Helm charts
+  1 week ago) - My Helm charts
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   1 month ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
