@@ -54,9 +54,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/ephemeral-tailscale-nodes](https://github.com/mrsimonemms/ephemeral-tailscale-nodes) - Deploy ephemeral Tailscale exit nodes
   (1 day ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/sample-helm-oci](https://github.com/mrsimonemms/sample-helm-oci) - Sample Helm OCI repo
-  (4 days ago)
+  (5 days ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (1 week ago)
 - [mrsimonemms/goto](https://github.com/mrsimonemms/goto) - Orchestrate simple tasks in Golang
@@ -74,11 +74,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.0](https://github.com/konstructio/gitops-template/releases/tag/v2.6.0),
-  3 days ago) - upstream template for your open source gitops repository
+  4 days ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.6.0](https://github.com/konstructio/kubefirst/releases/tag/v2.6.0),
-  3 days ago) - The Kubefirst Open Source Platform
+  4 days ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.60.0](https://github.com/konstructio/console/releases/tag/v2.60.0),
-  3 days ago) - Kubefirst app console
+  4 days ago) - Kubefirst app console
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.105.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.105.0),
   1 week ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
