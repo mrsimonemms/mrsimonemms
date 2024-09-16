@@ -74,11 +74,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
-  3 days ago) - DevPod on Hetzner
+  4 days ago) - DevPod on Hetzner
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
-  6 days ago) - upstream template for your open source gitops repository
+  1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.6.1](https://github.com/konstructio/kubefirst/releases/tag/v2.6.1),
-  6 days ago) - The Kubefirst Open Source Platform
+  1 week ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.60.0](https://github.com/konstructio/console/releases/tag/v2.60.0),
   1 week ago) - Kubefirst app console
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.105.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.105.0),
