@@ -52,7 +52,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/ephemeral-tailscale-nodes](https://github.com/mrsimonemms/ephemeral-tailscale-nodes) - Deploy ephemeral Tailscale exit nodes
   (2 weeks ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
@@ -73,6 +73,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.106.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.106.0),
+  1 day ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
   1 week ago) - DevPod on Hetzner
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
@@ -81,8 +83,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   2 weeks ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.60.0](https://github.com/konstructio/console/releases/tag/v2.60.0),
   2 weeks ago) - Kubefirst app console
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.105.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.105.0),
-  3 weeks ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   2 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
