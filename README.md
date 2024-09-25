@@ -58,13 +58,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
   (2 weeks ago)
 - [mrsimonemms/sample-helm-oci](https://github.com/mrsimonemms/sample-helm-oci) - Sample Helm OCI repo
-  (2 weeks ago)
+  (3 weeks ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (3 weeks ago)
 - [mrsimonemms/goto](https://github.com/mrsimonemms/goto) - Orchestrate simple tasks in Golang
-  (3 weeks ago)
+  (4 weeks ago)
 - [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
-  (3 weeks ago)
+  (4 weeks ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 month ago)
 - [konstructio/console](https://github.com/konstructio/console) - Kubefirst app console
@@ -73,7 +73,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.106.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.106.0),
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.107.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.107.0),
   1 day ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
   1 week ago) - DevPod on Hetzner
