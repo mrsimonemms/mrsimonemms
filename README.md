@@ -51,8 +51,12 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
+  (1 day ago)
+- [mrsimonemms/provider-hetzner](https://github.com/mrsimonemms/provider-hetzner) - Crossplane Hetzner provider
+  (1 day ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (2 days ago)
+  (3 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
   (1 week ago)
 - [mrsimonemms/ephemeral-tailscale-nodes](https://github.com/mrsimonemms/ephemeral-tailscale-nodes) - Deploy ephemeral Tailscale exit nodes
@@ -67,14 +71,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 month ago)
-- [konstructio/console](https://github.com/konstructio/console) - Kubefirst app console
-  (1 month ago)
-- [mrsimonemms/nvidia-helm-mirror](https://github.com/mrsimonemms/nvidia-helm-mirror) - Mirror for the NVIDIA Helm charts
-  (1 month ago)
 
 ## 🔭 My latest releases
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.107.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.107.0),
-  3 days ago) - Kubefirst API that serves console frontend
+  4 days ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
   2 weeks ago) - DevPod on Hetzner
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
