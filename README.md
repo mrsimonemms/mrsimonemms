@@ -51,14 +51,12 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/provider-hetzner](https://github.com/mrsimonemms/provider-hetzner) - Crossplane Hetzner provider
-  (2 days ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
-  (3 days ago)
+  (4 days ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (5 days ago)
+  (6 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/ephemeral-tailscale-nodes](https://github.com/mrsimonemms/ephemeral-tailscale-nodes) - Deploy ephemeral Tailscale exit nodes
   (3 weeks ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
@@ -71,10 +69,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 month ago)
+- [konstructio/console](https://github.com/konstructio/console) - Kubefirst app console
+  (1 month ago)
 
 ## 🔭 My latest releases
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.107.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.107.0),
-  6 days ago) - Kubefirst API that serves console frontend
+  1 week ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
   2 weeks ago) - DevPod on Hetzner
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
