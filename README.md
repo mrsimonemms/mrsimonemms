@@ -82,7 +82,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.6.1](https://github.com/konstructio/kubefirst/releases/tag/v2.6.1),
   3 weeks ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.60.0](https://github.com/konstructio/console/releases/tag/v2.60.0),
-  4 weeks ago) - Kubefirst app console
+  1 month ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   2 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
