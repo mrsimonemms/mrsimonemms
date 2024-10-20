@@ -51,11 +51,15 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
-  (2 days ago)
-- [mrsimonemms/provider-hetzner](https://github.com/mrsimonemms/provider-hetzner) - Crossplane Hetzner provider
-  (1 week ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
+  (1 day ago)
+- [mrsimonemms/knative-example](https://github.com/mrsimonemms/knative-example) - Knative example
+  (1 day ago)
+- [mrsimonemms/telfordtech.dev](https://github.com/mrsimonemms/telfordtech.dev) - Telford Tech Meetup
+  (1 day ago)
+- [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
+  (3 days ago)
+- [mrsimonemms/provider-hetzner](https://github.com/mrsimonemms/provider-hetzner) - Crossplane Hetzner provider
   (1 week ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
   (3 weeks ago)
@@ -67,14 +71,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
   (1 month ago)
-- [mrsimonemms/sample-helm-oci](https://github.com/mrsimonemms/sample-helm-oci) - Sample Helm OCI repo
-  (1 month ago)
-- [mrsimonemms/goto](https://github.com/mrsimonemms/goto) - Orchestrate simple tasks in Golang
-  (1 month ago)
 
 ## 🔭 My latest releases
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.109.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.109.0),
-  1 day ago) - Kubefirst API that serves console frontend
+  2 days ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
   1 month ago) - DevPod on Hetzner
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
