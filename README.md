@@ -51,30 +51,30 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
+- [mrsimonemms/fission-example](https://github.com/mrsimonemms/fission-example) - Fission example
   (1 day ago)
-- [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
+- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
+  (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
   (2 days ago)
-- [mrsimonemms/knative-example](https://github.com/mrsimonemms/knative-example) - Knative example
+- [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (3 days ago)
 - [mrsimonemms/telfordtech.dev](https://github.com/mrsimonemms/telfordtech.dev) - Telford Tech Meetup
-  (3 days ago)
+  (4 days ago)
 - [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
-  (5 days ago)
+  (6 days ago)
 - [mrsimonemms/provider-hetzner](https://github.com/mrsimonemms/provider-hetzner) - Crossplane Hetzner provider
   (2 weeks ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
   (3 weeks ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (3 weeks ago)
+  (4 weeks ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (1 month ago)
-- [mrsimonemms/ephemeral-tailscale-nodes](https://github.com/mrsimonemms/ephemeral-tailscale-nodes) - Deploy ephemeral Tailscale exit nodes
   (1 month ago)
 
 ## 🔭 My latest releases
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.109.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.109.0),
-  4 days ago) - Kubefirst API that serves console frontend
+  5 days ago) - Kubefirst API that serves console frontend
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
   1 month ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.6.1](https://github.com/konstructio/kubefirst/releases/tag/v2.6.1),
