@@ -51,36 +51,36 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
-  (2 days ago)
-- [mrsimonemms/fission-example](https://github.com/mrsimonemms/fission-example) - Fission example
-  (2 days ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
-  (3 days ago)
-- [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
-  (4 days ago)
-- [mrsimonemms/telfordtech.dev](https://github.com/mrsimonemms/telfordtech.dev) - Telford Tech Meetup
-  (5 days ago)
 - [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
-  (1 week ago)
+  (1 day ago)
+- [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
+  (3 days ago)
+- [mrsimonemms/fission-example](https://github.com/mrsimonemms/fission-example) - Fission example
+  (3 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My home infrastructure
+  (4 days ago)
+- [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
+  (5 days ago)
+- [mrsimonemms/telfordtech.dev](https://github.com/mrsimonemms/telfordtech.dev) - Telford Tech Meetup
+  (6 days ago)
 - [mrsimonemms/provider-hetzner](https://github.com/mrsimonemms/provider-hetzner) - Crossplane Hetzner provider
   (2 weeks ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
-  (3 weeks ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (4 weeks ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+  (1 month ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
   (1 month ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.109.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.109.0),
-  6 days ago) - Kubefirst API that serves console frontend
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.6.1](https://github.com/konstructio/gitops-template/releases/tag/v2.6.1),
-  1 month ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.6.1](https://github.com/konstructio/kubefirst/releases/tag/v2.6.1),
-  1 month ago) - The Kubefirst Open Source Platform
-- [konstructio/console](https://github.com/konstructio/console) ([v2.60.0](https://github.com/konstructio/console/releases/tag/v2.60.0),
-  1 month ago) - Kubefirst app console
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.0](https://github.com/konstructio/gitops-template/releases/tag/v2.7.0),
+  1 day ago) - upstream template for your open source gitops repository
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.0](https://github.com/konstructio/kubefirst/releases/tag/v2.7.0),
+  1 day ago) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.111.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.111.0),
+  1 day ago) - Kubefirst API that serves console frontend
+- [konstructio/console](https://github.com/konstructio/console) ([v2.61.0](https://github.com/konstructio/console/releases/tag/v2.61.0),
+  1 day ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   3 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
