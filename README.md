@@ -51,8 +51,12 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
+  (1 day ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+  (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 days ago)
+  (3 days ago)
 - [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
   (1 week ago)
 - [mrsimonemms/terraform-module-k3s](https://github.com/mrsimonemms/terraform-module-k3s) - Build a highly-available k3s cluster with Terraform
@@ -67,18 +71,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (4 weeks ago)
 - [mrsimonemms/crossplane-hetzner-provider](https://github.com/mrsimonemms/crossplane-hetzner-provider) - Crossplane Hetzner provider
   (1 month ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (1 month ago)
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (1 month ago)
 
 ## 🔭 My latest releases
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.115.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.115.0),
+  1 day ago) - Kubefirst API that serves console frontend
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.3](https://github.com/konstructio/gitops-template/releases/tag/v2.7.3),
   1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.3](https://github.com/konstructio/kubefirst/releases/tag/v2.7.3),
   1 week ago) - The Kubefirst Open Source Platform
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.114.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.114.0),
-  1 week ago) - Kubefirst API that serves console frontend
 - [konstructio/console](https://github.com/konstructio/console) ([v2.61.0](https://github.com/konstructio/console/releases/tag/v2.61.0),
   1 week ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
