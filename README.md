@@ -51,16 +51,18 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 day ago)
+- [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
+  (1 day ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+  (1 day ago)
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
   (1 day ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
-  (1 day ago)
+  (2 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (2 days ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (2 days ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (4 days ago)
+  (3 days ago)
 - [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) - kubefirst gitops catalog repository
   (2 weeks ago)
 - [mrsimonemms/fission-example](https://github.com/mrsimonemms/fission-example) - Fission example
@@ -69,18 +71,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (2 weeks ago)
-- [mrsimonemms/telfordtech.dev](https://github.com/mrsimonemms/telfordtech.dev) - Telford Tech Meetup
-  (2 weeks ago)
 
 ## 🔭 My latest releases
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.184.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.184.0),
-  1 day ago) - kubefirst documentation
+  2 days ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.4](https://github.com/konstructio/gitops-template/releases/tag/v2.7.4),
-  1 day ago) - upstream template for your open source gitops repository
+  2 days ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.4](https://github.com/konstructio/kubefirst/releases/tag/v2.7.4),
-  1 day ago) - The Kubefirst Open Source Platform
+  2 days ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.115.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.115.0),
-  2 days ago) - Kubefirst API that serves console frontend
+  3 days ago) - Kubefirst API that serves console frontend
 - [konstructio/console](https://github.com/konstructio/console) ([v2.61.0](https://github.com/konstructio/console/releases/tag/v2.61.0),
   2 weeks ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
