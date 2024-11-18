@@ -54,7 +54,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 day ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/storage-explorer](https://github.com/mrsimonemms/storage-explorer) - Desktop app to view your cloud storage
   (1 week ago)
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
@@ -74,9 +74,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.187.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.187.0),
-  4 days ago) - kubefirst documentation
+  5 days ago) - kubefirst documentation
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.116.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.116.0),
-  6 days ago) - Kubefirst API that serves console frontend
+  1 week ago) - Kubefirst API that serves console frontend
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.4](https://github.com/konstructio/gitops-template/releases/tag/v2.7.4),
   1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.4](https://github.com/konstructio/kubefirst/releases/tag/v2.7.4),
