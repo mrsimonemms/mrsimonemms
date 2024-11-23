@@ -51,38 +51,40 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemmsorg2/gitops](https://github.com/mrsimonemmsorg2/gitops) - 
-  (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 day ago)
-- [mrsimonemmsorg2/metaphor](https://github.com/mrsimonemmsorg2/metaphor) - 
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 day ago)
-- [mrsimonemms/get.chartversion.app](https://github.com/mrsimonemms/get.chartversion.app) - Find the versions of published Helm charts
-  (3 days ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  (1 day ago)
+- [mrsimonemms/chartversion.app](https://github.com/mrsimonemms/chartversion.app) - Find the versions of published Helm charts
+  (1 day ago)
+- [mrsimonemmsorg2/metaphor](https://github.com/mrsimonemmsorg2/metaphor) - 
+  (2 days ago)
+- [mrsimonemmsorg2/gitops](https://github.com/mrsimonemmsorg2/gitops) - 
+  (2 days ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (1 week ago)
 - [mrsimonemms/storage-explorer](https://github.com/mrsimonemms/storage-explorer) - Desktop app to view your cloud storage
   (2 weeks ago)
-- [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
-  (2 weeks ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (2 weeks ago)
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
   (2 weeks ago)
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (2 weeks ago)
 
 ## 🔭 My latest releases
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.5](https://github.com/konstructio/gitops-template/releases/tag/v2.7.5),
-  1 day ago) - upstream template for your open source gitops repository
+  2 days ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.5](https://github.com/konstructio/kubefirst/releases/tag/v2.7.5),
-  1 day ago) - The Kubefirst Open Source Platform
+  2 days ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.117.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.117.0),
-  2 days ago) - Kubefirst API that serves console frontend
+  3 days ago) - Kubefirst API that serves console frontend
 - [konstructio/console](https://github.com/konstructio/console) ([v2.62.0](https://github.com/konstructio/console/releases/tag/v2.62.0),
-  2 days ago) - Kubefirst app console
+  3 days ago) - Kubefirst app console
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.187.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.187.0),
   1 week ago) - kubefirst documentation
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.12](https://github.com/gethomepage/homepage/releases/tag/v0.9.12),
+  1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   4 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
