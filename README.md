@@ -51,36 +51,36 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 day ago)
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
-  (5 days ago)
+  (1 day ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+  (1 day ago)
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
+  (1 day ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
-  (5 days ago)
+  (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (2 days ago)
 - [mrsimonemms/chartversion.app](https://github.com/mrsimonemms/chartversion.app) - Find the versions of published Helm charts
-  (1 week ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 week ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
   (1 week ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (1 week ago)
 - [mrsimonemms/storage-explorer](https://github.com/mrsimonemms/storage-explorer) - Desktop app to view your cloud storage
-  (3 weeks ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (3 weeks ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
   (3 weeks ago)
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (3 weeks ago)
 
 ## 🔭 My latest releases
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.198.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.198.0),
+  1 day ago) - kubefirst documentation
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.119.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.119.0),
-  4 days ago) - Kubefirst API that serves console frontend
+  5 days ago) - Kubefirst API that serves console frontend
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.7](https://github.com/konstructio/kubefirst/releases/tag/v2.7.7),
-  4 days ago) - The Kubefirst Open Source Platform
+  5 days ago) - The Kubefirst Open Source Platform
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.7](https://github.com/konstructio/gitops-template/releases/tag/v2.7.7),
-  4 days ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.196.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.196.0),
-  5 days ago) - kubefirst documentation
+  5 days ago) - upstream template for your open source gitops repository
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.13](https://github.com/gethomepage/homepage/releases/tag/v0.9.13),
   1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [konstructio/console](https://github.com/konstructio/console) ([v2.62.0](https://github.com/konstructio/console/releases/tag/v2.62.0),
