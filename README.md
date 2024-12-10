@@ -53,13 +53,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 ## 👷 My recent contributions
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 day ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (4 days ago)
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
-  (5 days ago)
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (1 week ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
+  (1 day ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+  (5 days ago)
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
+  (6 days ago)
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
   (1 week ago)
 - [mrsimonemms/chartversion.app](https://github.com/mrsimonemms/chartversion.app) - Find the versions of published Helm charts
   (2 weeks ago)
@@ -73,8 +73,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.201.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.201.0),
-  5 days ago) - kubefirst documentation
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.202.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.202.0),
+  1 day ago) - kubefirst documentation
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.119.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.119.0),
   1 week ago) - Kubefirst API that serves console frontend
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.7](https://github.com/konstructio/kubefirst/releases/tag/v2.7.7),
