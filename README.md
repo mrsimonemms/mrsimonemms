@@ -51,15 +51,15 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 day ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (1 day ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (5 days ago)
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
-  (6 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
+  (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 day ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+  (6 days ago)
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
   (1 week ago)
 - [mrsimonemms/chartversion.app](https://github.com/mrsimonemms/chartversion.app) - Find the versions of published Helm charts
   (2 weeks ago)
@@ -73,7 +73,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.202.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.202.0),
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.204.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.204.0),
   1 day ago) - kubefirst documentation
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.119.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.119.0),
   1 week ago) - Kubefirst API that serves console frontend
@@ -84,7 +84,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.13](https://github.com/gethomepage/homepage/releases/tag/v0.9.13),
   2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [konstructio/console](https://github.com/konstructio/console) ([v2.62.0](https://github.com/konstructio/console/releases/tag/v2.62.0),
-  2 weeks ago) - Kubefirst app console
+  3 weeks ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.3](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.3),
   4 months ago) - Say goodbye to your todos
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
