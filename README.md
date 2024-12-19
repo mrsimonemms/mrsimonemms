@@ -58,7 +58,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (1 week ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (1 week ago)
+  (2 weeks ago)
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
   (2 weeks ago)
 - [mrsimonemms/chartversion.app](https://github.com/mrsimonemms/chartversion.app) - Find the versions of published Helm charts
@@ -73,16 +73,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.208.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.208.0),
-  2 days ago) - kubefirst documentation
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.209.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.209.0),
+  1 day ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
-  6 days ago) - upstream template for your open source gitops repository
+  1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.9](https://github.com/konstructio/kubefirst/releases/tag/v2.7.9),
-  6 days ago) - The Kubefirst Open Source Platform
+  1 week ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.64.0](https://github.com/konstructio/console/releases/tag/v2.64.0),
-  6 days ago) - Kubefirst app console
+  1 week ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
-  6 days ago) - Say goodbye to your todos
+  1 week ago) - Say goodbye to your todos
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.120.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.120.0),
   1 week ago) - Kubefirst API that serves console frontend
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.13](https://github.com/gethomepage/homepage/releases/tag/v0.9.13),
