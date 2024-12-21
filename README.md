@@ -73,8 +73,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.1](https://github.com/gethomepage/homepage/releases/tag/v0.10.1),
+  today) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.209.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.209.0),
-  2 days ago) - kubefirst documentation
+  3 days ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
   1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.9](https://github.com/konstructio/kubefirst/releases/tag/v2.7.9),
@@ -85,8 +87,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   1 week ago) - Say goodbye to your todos
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.120.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.120.0),
   1 week ago) - Kubefirst API that serves console frontend
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.9.13](https://github.com/gethomepage/homepage/releases/tag/v0.9.13),
-  3 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   10 months ago) - Drop-in replacement for Express session using a cookie
 
