@@ -52,7 +52,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 days ago)
+  (3 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
   (2 weeks ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
@@ -60,7 +60,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (2 weeks ago)
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) - upstream template for your open source gitops repository
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/chartversion.app](https://github.com/mrsimonemms/chartversion.app) - Find the versions of published Helm charts
   (1 month ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -74,9 +74,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.3](https://github.com/gethomepage/homepage/releases/tag/v0.10.3),
-  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.209.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.209.0),
-  6 days ago) - kubefirst documentation
+  1 week ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
   1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.9](https://github.com/konstructio/kubefirst/releases/tag/v2.7.9),
@@ -86,9 +86,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
   1 week ago) - Say goodbye to your todos
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.120.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.120.0),
-  1 week ago) - Kubefirst API that serves console frontend
+  2 weeks ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
-  10 months ago) - Drop-in replacement for Express session using a cookie
+  11 months ago) - Drop-in replacement for Express session using a cookie
 
 ## ⚡ My stats
 
