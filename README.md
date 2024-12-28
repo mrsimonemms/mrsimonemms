@@ -52,9 +52,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
-  (1 day ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (2 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (3 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
   (2 weeks ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
@@ -74,7 +74,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.5](https://github.com/gethomepage/homepage/releases/tag/v0.10.5),
-  today) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.209.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.209.0),
   1 week ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
