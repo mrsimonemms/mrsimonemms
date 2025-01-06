@@ -51,12 +51,12 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 day ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (1 day ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (4 days ago)
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
   (1 week ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
@@ -73,10 +73,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.7](https://github.com/gethomepage/homepage/releases/tag/v0.10.7),
-  4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.8](https://github.com/gethomepage/homepage/releases/tag/v0.10.8),
+  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.2.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.2.0),
+  1 day ago) - DevPod on Hetzner
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.121.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.121.0),
-  6 days ago) - Kubefirst API that serves console frontend
+  1 week ago) - Kubefirst API that serves console frontend
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.209.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.209.0),
   2 weeks ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
@@ -89,8 +91,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   3 weeks ago) - Say goodbye to your todos
 - [fission/fission](https://github.com/fission/fission) ([v1.20.5](https://github.com/fission/fission/releases/tag/v1.20.5),
   3 months ago) - Fast and Simple Serverless Functions for Kubernetes
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.6](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.6),
-  3 months ago) - DevPod on Hetzner
 - [mrsimonemms/cookie-session](https://github.com/mrsimonemms/cookie-session) ([v0.1.0](https://github.com/mrsimonemms/cookie-session/releases/tag/v0.1.0),
   11 months ago) - Drop-in replacement for Express session using a cookie
 
