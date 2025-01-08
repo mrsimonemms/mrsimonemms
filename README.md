@@ -51,14 +51,14 @@ or put a time in my [diary](https://diary.simonemms.com).
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
 ## 👷 My recent contributions
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (today)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 day ago)
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
+  (1 day ago)
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (2 days ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (2 days ago)
+  (3 days ago)
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
   (1 week ago)
 - [mrsimonemms/simonmakesstuff](https://github.com/mrsimonemms/simonmakesstuff) - Stuff what I have made
@@ -73,14 +73,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.122.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.122.0),
+  1 day ago) - Kubefirst API that serves console frontend
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9),
-  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.2.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.2.0),
-  2 days ago) - DevPod on Hetzner
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.121.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.121.0),
-  1 week ago) - Kubefirst API that serves console frontend
+  3 days ago) - DevPod on Hetzner
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.209.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.209.0),
-  2 weeks ago) - kubefirst documentation
+  3 weeks ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
   3 weeks ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.9](https://github.com/konstructio/kubefirst/releases/tag/v2.7.9),
