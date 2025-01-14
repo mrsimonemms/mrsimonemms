@@ -1,5 +1,7 @@
 # Hi there, I'm Simon 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=MrSimonEmms)
+
 I'm a Cloud Native engineer and a mentor at the [School of Code](https://www.schoolofcode.co.uk).
 I'm based in the beautiful county of [Shropshire](https://en.wikipedia.org/wiki/Shropshire)
 in the [English Midlands](https://en.wikipedia.org/wiki/Midlands).
