@@ -54,15 +54,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (2 days ago)
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (3 days ago)
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (4 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (5 days ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (5 days ago)
+  (6 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (6 days ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
   (1 week ago)
 - [mrsimonemms/kubemirror](https://github.com/mrsimonemms/kubemirror) - 
@@ -75,14 +75,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.11-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.6.11-beta.0),
-  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [fission/fission](https://github.com/fission/fission) ([v1.21.0-rc2](https://github.com/fission/fission/releases/tag/v1.21.0-rc2),
+- [fission/fission](https://github.com/fission/fission) ([v1.21.0](https://github.com/fission/fission/releases/tag/v1.21.0),
   1 day ago) - Fast and Simple Serverless Functions for Kubernetes
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.11-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.6.11-beta.0),
+  2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.213.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.213.0),
-  3 days ago) - kubefirst documentation
+  4 days ago) - kubefirst documentation
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.3.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.3.4),
-  1 week ago) - DevPod on Hetzner
+  2 weeks ago) - DevPod on Hetzner
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.122.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.122.0),
   2 weeks ago) - Kubefirst API that serves console frontend
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9),
