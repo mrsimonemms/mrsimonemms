@@ -54,11 +54,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 day ago)
+  (2 days ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
-  (5 days ago)
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (6 days ago)
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
+  (1 week ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
   (1 week ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
@@ -75,24 +75,24 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.123.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.123.0),
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.0](https://github.com/konstructio/gitops-template/releases/tag/v2.8.0),
+  1 day ago) - upstream template for your open source gitops repository
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.0](https://github.com/konstructio/kubefirst/releases/tag/v2.8.0),
+  1 day ago) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.125.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.125.0),
   1 day ago) - Kubefirst API that serves console frontend
+- [konstructio/console](https://github.com/konstructio/console) ([v2.65.0](https://github.com/konstructio/console/releases/tag/v2.65.0),
+  1 day ago) - Kubefirst app console
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.11-beta.1](https://github.com/loft-sh/devpod/releases/tag/v0.6.11-beta.1),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [fission/fission](https://github.com/fission/fission) ([v1.21.0](https://github.com/fission/fission/releases/tag/v1.21.0),
-  3 days ago) - Fast and Simple Serverless Functions for Kubernetes
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.11-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.6.11-beta.0),
-  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  4 days ago) - Fast and Simple Serverless Functions for Kubernetes
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.213.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.213.0),
-  6 days ago) - kubefirst documentation
+  1 week ago) - kubefirst documentation
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.3.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.3.4),
   2 weeks ago) - DevPod on Hetzner
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9),
   3 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.7.9](https://github.com/konstructio/gitops-template/releases/tag/v2.7.9),
-  1 month ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.7.9](https://github.com/konstructio/kubefirst/releases/tag/v2.7.9),
-  1 month ago) - The Kubefirst Open Source Platform
-- [konstructio/console](https://github.com/konstructio/console) ([v2.64.0](https://github.com/konstructio/console/releases/tag/v2.64.0),
-  1 month ago) - Kubefirst app console
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
   1 month ago) - Say goodbye to your todos
 
