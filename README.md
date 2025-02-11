@@ -54,19 +54,19 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (5 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (1 week ago)
+  (6 days ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) - 
+  (1 week ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 week ago)
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
   (2 weeks ago)
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) - kubefirst documentation
   (2 weeks ago)
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) - Kubefirst API that serves console frontend
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (3 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
@@ -75,14 +75,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (3 weeks ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.128.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.128.0),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.12](https://github.com/loft-sh/devpod/releases/tag/v0.6.12),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.2](https://github.com/konstructio/gitops-template/releases/tag/v2.8.2),
+  1 day ago) - upstream template for your open source gitops repository
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.2](https://github.com/konstructio/kubefirst/releases/tag/v2.8.2),
+  1 day ago) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.129.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.129.0),
   1 day ago) - Kubefirst API that serves console frontend
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.11](https://github.com/loft-sh/devpod/releases/tag/v0.6.11),
-  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.1](https://github.com/konstructio/gitops-template/releases/tag/v2.8.1),
-  6 days ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.1](https://github.com/konstructio/kubefirst/releases/tag/v2.8.1),
-  6 days ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.66.0](https://github.com/konstructio/console/releases/tag/v2.66.0),
   1 week ago) - Kubefirst app console
 - [fission/fission](https://github.com/fission/fission) ([v1.21.0](https://github.com/fission/fission/releases/tag/v1.21.0),
@@ -90,7 +90,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.213.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.213.0),
   2 weeks ago) - kubefirst documentation
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.3.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.3.4),
-  4 weeks ago) - DevPod on Hetzner
+  1 month ago) - DevPod on Hetzner
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9),
   1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
