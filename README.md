@@ -56,41 +56,41 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 day ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (1 day ago)
-- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
   (2 days ago)
+- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
+  (3 days ago)
 - [mrsimonemms/hetzner-golang-actions](https://github.com/mrsimonemms/hetzner-golang-actions) - Hetzner Golang action completion - the missing part of the Hetzner Golang SDK
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/temporal](https://github.com/mrsimonemms/temporal) - 
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/gitpod-dotfiles](https://github.com/mrsimonemms/gitpod-dotfiles) - My dotfiles configuration
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (6 days ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (1 week ago)
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (2 weeks ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) - 
   (2 weeks ago)
 
 ## 🔭 My latest releases
-- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.131.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.131.0),
-  1 day ago) - Kubefirst API that serves console frontend
-- [konstructio/console](https://github.com/konstructio/console) ([v2.67.0](https://github.com/konstructio/console/releases/tag/v2.67.0),
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
+  1 day ago) - upstream template for your open source gitops repository
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
+  1 day ago) - The Kubefirst Open Source Platform
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.13-rc.1](https://github.com/loft-sh/devpod/releases/tag/v0.6.13-rc.1),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [konstructio/console](https://github.com/konstructio/console) ([v2.68.0](https://github.com/konstructio/console/releases/tag/v2.68.0),
   1 day ago) - Kubefirst app console
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.131.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.131.0),
+  2 days ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.0),
-  1 day ago) - DevPod on Hetzner
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.13-rc.0](https://github.com/loft-sh/devpod/releases/tag/v0.6.13-rc.0),
-  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.3](https://github.com/konstructio/gitops-template/releases/tag/v2.8.3),
-  1 week ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.3](https://github.com/konstructio/kubefirst/releases/tag/v2.8.3),
-  1 week ago) - The Kubefirst Open Source Platform
+  2 days ago) - DevPod on Hetzner
 - [fission/fission](https://github.com/fission/fission) ([v1.21.0](https://github.com/fission/fission/releases/tag/v1.21.0),
   3 weeks ago) - Fast and Simple Serverless Functions for Kubernetes
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.213.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.213.0),
-  3 weeks ago) - kubefirst documentation
+  4 weeks ago) - kubefirst documentation
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9),
   1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
