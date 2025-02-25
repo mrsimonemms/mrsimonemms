@@ -54,11 +54,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (3 days ago)
+  (1 day ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
-  (4 days ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (5 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (6 days ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (1 week ago)
 - [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
@@ -76,13 +76,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.13](https://github.com/loft-sh/devpod/releases/tag/v0.6.13),
-  4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
-  6 days ago) - upstream template for your open source gitops repository
+  1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
-  6 days ago) - The Kubefirst Open Source Platform
+  1 week ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.68.0](https://github.com/konstructio/console/releases/tag/v2.68.0),
-  6 days ago) - Kubefirst app console
+  1 week ago) - Kubefirst app console
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.131.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.131.0),
   1 week ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.0),
