@@ -54,11 +54,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/nestjs-modules](https://github.com/mrsimonemms/nestjs-modules) - A collection of NestJS modules
-  (1 day ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (2 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (3 days ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
@@ -76,7 +76,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.13](https://github.com/loft-sh/devpod/releases/tag/v0.6.13),
-  6 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  1 week ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
   1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
