@@ -56,7 +56,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/nestjs-modules](https://github.com/mrsimonemms/nestjs-modules) - A collection of NestJS modules
   (1 day ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (4 days ago)
+  (5 days ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
   (1 week ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
@@ -75,14 +75,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.7.0-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.7.0-alpha.0),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.7.0-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.7.0-alpha.1),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
-  1 week ago) - upstream template for your open source gitops repository
+  2 weeks ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
-  1 week ago) - The Kubefirst Open Source Platform
+  2 weeks ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.68.0](https://github.com/konstructio/console/releases/tag/v2.68.0),
-  1 week ago) - Kubefirst app console
+  2 weeks ago) - Kubefirst app console
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.131.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.131.0),
   2 weeks ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.0),
