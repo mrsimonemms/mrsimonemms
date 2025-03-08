@@ -1,19 +1,11 @@
 {
-  "name": "devcontainer",
   "image": "ghcr.io/mrsimonemms/devcontainers/full",
+  "name": "devcontainer",
   "features": {},
   "customizations": {
     "vscode": {
-      "settings": {},
-      "extensions": [
-        "donjayamanne.git-extension-pack",
-        "EditorConfig.EditorConfig",
-        "waderyan.gitblame",
-        "GitHub.vscode-github-actions"
-      ]
+      "extensions": [],
+      "settings": {}
     }
-  },
-  "postStartCommand": {
-    "pre-commit": "pre-commit install --install-hooks -t pre-commit -t commit-msg"
   }
 }

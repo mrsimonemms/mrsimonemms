@@ -1,15 +1,17 @@
 {
   "template": "https://github.com/mrsimonemms/new",
-  "commit": "3efdc2d2187bd3d625182ef40d2114277abe1379",
-  "checkout": null,
+  "commit": "65fcb8974e5baefe2d7346dfb5592b9e0263bcb8",
+  "checkout": "main",
   "context": {
     "cookiecutter": {
       "project_name": "mrsimonemms",
-      "description": " It's all about me ",
-      "_template": "https://github.com/mrsimonemms/new"
+      "description": "It's all about me",
+      "author": "Simon Emms <simon@simonemms.com>",
+      "_template": "https://github.com/mrsimonemms/new",
+      "_commit": "65fcb8974e5baefe2d7346dfb5592b9e0263bcb8"
     }
   },
-  "directory": null,
+  "directory": "blank",
   "skip": [
     ".git"
   ]
