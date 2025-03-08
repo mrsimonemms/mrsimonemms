@@ -52,6 +52,7 @@ or put a time in my [diary](https://diary.simonemms.com).
 
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
+<!-- markdownlint-disable MD013 MD022 -->
 ## 👷 My recent contributions
 
 {{- range recentContributions 10 }}
@@ -65,6 +66,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}),
   {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
 {{- end }}
+<!-- markdownlint-enable MD013 MD022 -->
 
 ## ⚡ My stats
 

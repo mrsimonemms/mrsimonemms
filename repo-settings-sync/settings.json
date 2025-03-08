@@ -1,0 +1,33 @@
+{
+  "ignore": false,
+  "repo": {
+    "has_issues": true,
+    "has_projects": true,
+    "has_wiki": true,
+    "allow_squash_merge": false,
+    "allow_merge_commit": false,
+    "allow_rebase_merge": true,
+    "allow_auto_merge": true,
+    "delete_branch_on_merge": true,
+    "allow_update_branch": true,
+    "web_commit_signoff_required": true
+  },
+  "branch_protection": {
+    "required_pull_request_reviews": {
+      "dismiss_stale_reviews": true,
+      "require_code_owner_reviews": true,
+      "require_last_push_approval": false,
+      "required_approving_review_count": 1
+    },
+    "required_linear_history": true,
+    "allow_force_pushes": false,
+    "required_signatures": true,
+    "required_conversation_resolution": true,
+    "enforce_admins": false,
+    "required_status_checks": {
+      "strict": true,
+      "checks": []
+    },
+    "restrictions": null
+  }
+}

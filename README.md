@@ -52,6 +52,7 @@ or put a time in my [diary](https://diary.simonemms.com).
 
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
+<!-- markdownlint-disable MD013 MD022 -->
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (4 days ago)
@@ -65,7 +66,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
   (2 weeks ago)
-- [mrsimonemms/temporal](https://github.com/mrsimonemms/temporal) - 
+- [mrsimonemms/temporal](https://github.com/mrsimonemms/temporal) -
   (3 weeks ago)
 - [mrsimonemms/hetzner-golang-actions](https://github.com/mrsimonemms/hetzner-golang-actions) - Hetzner Golang action completion - the missing part of the Hetzner Golang SDK
   (3 weeks ago)
@@ -95,6 +96,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   2 months ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
   2 months ago) - Say goodbye to your todos
+<!-- markdownlint-enable MD013 MD022 -->
 
 ## ⚡ My stats
 

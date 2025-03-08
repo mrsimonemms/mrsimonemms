@@ -12,6 +12,7 @@ header:
     - "**/*.{json,md,yml,yaml}"
     - "**/.gitkeep"
     - "templates/*"
+    - "**/README.md"
   comment: on-failure
   language:
     Go:
