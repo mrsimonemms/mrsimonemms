@@ -55,7 +55,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (6 days ago)
+  (1 day ago)
+- [mrsimonemms/cloud-native-auth](https://github.com/mrsimonemms/cloud-native-auth) - Authentication and authorization for cloud-native apps
+  (1 day ago)
 - [mrsimonemms/nestjs-modules](https://github.com/mrsimonemms/nestjs-modules) - A collection of NestJS modules
   (1 week ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
@@ -72,26 +74,24 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (3 weeks ago)
 - [mrsimonemms/gitpod-dotfiles](https://github.com/mrsimonemms/gitpod-dotfiles) - My dotfiles configuration
   (3 weeks ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 weeks ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.13-rc.9](https://github.com/loft-sh/devpod/releases/tag/v0.6.13-rc.9),
-  5 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
+  1 day ago) - kubefirst documentation
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.7.0-alpha.3](https://github.com/loft-sh/devpod/releases/tag/v0.7.0-alpha.3),
+  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
-  2 weeks ago) - upstream template for your open source gitops repository
+  3 weeks ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
-  2 weeks ago) - The Kubefirst Open Source Platform
+  3 weeks ago) - The Kubefirst Open Source Platform
 - [konstructio/console](https://github.com/konstructio/console) ([v2.68.0](https://github.com/konstructio/console/releases/tag/v2.68.0),
-  2 weeks ago) - Kubefirst app console
+  3 weeks ago) - Kubefirst app console
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.131.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.131.0),
   3 weeks ago) - Kubefirst API that serves console frontend
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.0),
   3 weeks ago) - DevPod on Hetzner
 - [fission/fission](https://github.com/fission/fission) ([v1.21.0](https://github.com/fission/fission/releases/tag/v1.21.0),
   1 month ago) - Fast and Simple Serverless Functions for Kubernetes
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.213.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.213.0),
-  1 month ago) - kubefirst documentation
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v0.10.9](https://github.com/gethomepage/homepage/releases/tag/v0.10.9),
   2 months ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/toodaloo](https://github.com/mrsimonemms/toodaloo) ([v0.2.4](https://github.com/mrsimonemms/toodaloo/releases/tag/v0.2.4),
