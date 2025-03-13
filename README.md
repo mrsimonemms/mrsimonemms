@@ -55,13 +55,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 days ago)
+  (1 day ago)
 - [mrsimonemms/cloud-native-auth](https://github.com/mrsimonemms/cloud-native-auth) - Authentication and authorization for cloud-native apps
-  (2 days ago)
+  (1 day ago)
 - [mrsimonemms/nestjs-modules](https://github.com/mrsimonemms/nestjs-modules) - A collection of NestJS modules
   (1 week ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (3 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
@@ -76,10 +76,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (3 weeks ago)
 
 ## 🔭 My latest releases
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.6.16-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.6.16-alpha.0),
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.7.0-alpha.5](https://github.com/loft-sh/devpod/releases/tag/v0.7.0-alpha.5),
   1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
-  2 days ago) - kubefirst documentation
+  3 days ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
   3 weeks ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
