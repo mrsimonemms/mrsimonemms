@@ -54,15 +54,17 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (1 day ago)
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) - Make your development databases gobble up known data
   (1 day ago)
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (2 days ago)
-- [mrsimonemms/hetzner-golang-actions](https://github.com/mrsimonemms/hetzner-golang-actions) - Hetzner Golang action completion - the missing part of the Hetzner Golang SDK
-  (2 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (1 day ago)
 - [mrsimonemms/cloud-native-auth](https://github.com/mrsimonemms/cloud-native-auth) - Authentication and authorization for cloud-native apps
+  (1 day ago)
+- [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) - Get branch information. A drop-in replacement for tj-actions/branch-names
+  (1 day ago)
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
+  (3 days ago)
+- [mrsimonemms/hetzner-golang-actions](https://github.com/mrsimonemms/hetzner-golang-actions) - Hetzner Golang action completion - the missing part of the Hetzner Golang SDK
   (3 days ago)
 - [mrsimonemms/nestjs-modules](https://github.com/mrsimonemms/nestjs-modules) - A collection of NestJS modules
   (1 week ago)
@@ -71,21 +73,19 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (3 weeks ago)
 - [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
-  (3 weeks ago)
-- [mrsimonemms/temporal](https://github.com/mrsimonemms/temporal) - Temporal example
   (4 weeks ago)
 
 ## 🔭 My latest releases
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.0.2](https://github.com/gethomepage/homepage/releases/tag/v1.0.2),
-  today) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.0.3](https://github.com/gethomepage/homepage/releases/tag/v1.0.3),
+  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) ([v1.0.0](https://github.com/mrsimonemms/get-branch-name-action/releases/tag/v1.0.0),
+  1 day ago) - Get branch information. A drop-in replacement for tj-actions/branch-names
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.2.0](https://github.com/mrsimonemms/gobblr/releases/tag/v0.2.0),
-  1 day ago) - Make your development databases gobble up known data
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.7.0-alpha.10](https://github.com/loft-sh/devpod/releases/tag/v0.7.0-alpha.10),
-  1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  2 days ago) - Make your development databases gobble up known data
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.1),
-  2 days ago) - DevPod on Hetzner
+  3 days ago) - DevPod on Hetzner
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
-  5 days ago) - kubefirst documentation
+  6 days ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
   3 weeks ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
