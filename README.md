@@ -55,13 +55,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/cloud-native-auth](https://github.com/mrsimonemms/cloud-native-auth) - Authentication and authorization for cloud-native apps
-  (1 day ago)
+  (2 days ago)
 - [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) - Get branch information. A drop-in replacement for tj-actions/branch-names
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) - Make your development databases gobble up known data
   (1 week ago)
 - [mrsimonemms/hetzner-golang-actions](https://github.com/mrsimonemms/hetzner-golang-actions) - Hetzner Golang action completion - the missing part of the Hetzner Golang SDK
@@ -77,7 +77,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.0.4](https://github.com/gethomepage/homepage/releases/tag/v1.0.4),
-  6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) ([v1.0.0](https://github.com/mrsimonemms/get-branch-name-action/releases/tag/v1.0.0),
   1 week ago) - Get branch information. A drop-in replacement for tj-actions/branch-names
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.2.0](https://github.com/mrsimonemms/gobblr/releases/tag/v0.2.0),
