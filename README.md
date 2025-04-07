@@ -54,13 +54,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (1 day ago)
 - [mrsimonemms/opensesame](https://github.com/mrsimonemms/opensesame) - Authentication and authorisation for cloud-native apps
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) - Make your development databases gobble up known data
-  (1 week ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (2 weeks ago)
 - [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) - Get branch information. A drop-in replacement for tj-actions/branch-names
+  (2 weeks ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (2 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (3 weeks ago)
@@ -71,8 +73,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/nestjs-modules](https://github.com/mrsimonemms/nestjs-modules) - A collection of NestJS modules
   (1 month ago)
 - [fharper/coffeechat](https://github.com/fharper/coffeechat) - List of awesome people offering their time for free to have a &#34;coffee chat&#34; with others about different topics, mostly in a mentorship kind of way.
-  (1 month ago)
-- [mrsimonemms/pre-commit-hooks](https://github.com/mrsimonemms/pre-commit-hooks) - Reusable pre-commit hooks
   (1 month ago)
 
 ## 🔭 My latest releases
@@ -85,7 +85,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.1),
   3 weeks ago) - DevPod on Hetzner
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
-  3 weeks ago) - kubefirst documentation
+  4 weeks ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
   1 month ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
