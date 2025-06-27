@@ -56,11 +56,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 ## 👷 My recent contributions
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (1 day ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (2 days ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (5 days ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (1 day ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+  (3 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (6 days ago)
 - [devcontainers/devcontainers.github.io](https://github.com/devcontainers/devcontainers.github.io) - Web content for the development containers specification.
   (1 week ago)
@@ -76,8 +76,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (4 weeks ago)
 
 ## 🔭 My latest releases
-- [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.3.4](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.3.4),
-  1 week ago) - Encode and decode your Temporal data
+- [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.0),
+  1 day ago) - Encode and decode your Temporal data
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.3.2](https://github.com/gethomepage/homepage/releases/tag/v1.3.2),
   3 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.2](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.2),
