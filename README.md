@@ -54,6 +54,8 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 day ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
@@ -63,8 +65,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (2 weeks ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 weeks ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (2 weeks ago)
 - [devcontainers/devcontainers.github.io](https://github.com/devcontainers/devcontainers.github.io) - Web content for the development containers specification.
   (3 weeks ago)
@@ -77,7 +77,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.3](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.3),
-  1 week ago) - DevPod on Hetzner
+  2 weeks ago) - DevPod on Hetzner
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.0),
   2 weeks ago) - Encode and decode your Temporal data
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.3.2](https://github.com/gethomepage/homepage/releases/tag/v1.3.2),
