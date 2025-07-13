@@ -54,10 +54,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 day ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (2 days ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
@@ -76,16 +76,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.2](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.2),
+  1 day ago) - Encode and decode your Temporal data
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.3](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.3),
   2 weeks ago) - DevPod on Hetzner
-- [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.0),
-  2 weeks ago) - Encode and decode your Temporal data
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.3.2](https://github.com/gethomepage/homepage/releases/tag/v1.3.2),
   1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.2.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.2.1),
   3 months ago) - Make your development databases gobble up known data
 - [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) ([v1.0.0](https://github.com/mrsimonemms/get-branch-name-action/releases/tag/v1.0.0),
-  3 months ago) - Get branch information. A drop-in replacement for tj-actions/branch-names
+  4 months ago) - Get branch information. A drop-in replacement for tj-actions/branch-names
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
   4 months ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
