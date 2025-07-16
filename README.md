@@ -54,14 +54,16 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 days ago)
+- [mrsimonemms/temporal-hotel-bookings](https://github.com/mrsimonemms/temporal-hotel-bookings) - Book a hotel with different payment terms
+  (1 day ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
-  (2 days ago)
+  (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (3 days ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (2 weeks ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
@@ -72,16 +74,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (4 weeks ago)
 - [mrsimonemms/get-iplayer-workflow](https://github.com/mrsimonemms/get-iplayer-workflow) - Temporal workflow to download and sort stuff from the iPlayer
   (1 month ago)
-- [mrsimonemms/nestjs-temporal-microservice](https://github.com/mrsimonemms/nestjs-temporal-microservice) - Build NestJS microservices with Temporal as your transporter
-  (1 month ago)
 
 ## 🔭 My latest releases
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.0](https://github.com/gethomepage/homepage/releases/tag/v1.4.0),
+  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.3](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.3),
-  2 days ago) - Encode and decode your Temporal data
+  3 days ago) - Encode and decode your Temporal data
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.4.3](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.4.3),
   2 weeks ago) - DevPod on Hetzner
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.3.2](https://github.com/gethomepage/homepage/releases/tag/v1.3.2),
-  1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.2.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.2.1),
   3 months ago) - Make your development databases gobble up known data
 - [mrsimonemms/get-branch-name-action](https://github.com/mrsimonemms/get-branch-name-action) ([v1.0.0](https://github.com/mrsimonemms/get-branch-name-action/releases/tag/v1.0.0),
