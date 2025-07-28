@@ -52,8 +52,8 @@ or put a time in my [diary](https://diary.simonemms.com).
 
 I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://www.linkedin.com/in/simonemms).
 
-
 ## 👷 My recent contributions
+
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (3 days ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -76,6 +76,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
   1 week ago) - Push Helm Charts to OCI-based registries
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.0](https://github.com/gethomepage/homepage/releases/tag/v1.4.0),
@@ -96,7 +97,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   5 months ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
   5 months ago) - The Kubefirst Open Source Platform
-
 
 ## ⚡ My stats
 
