@@ -54,17 +54,19 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (1 day ago)
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
+  (2 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 days ago)
+  (3 days ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
-  (2 days ago)
+  (3 days ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (1 week ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (1 week ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
+  (1 week ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
   (1 week ago)
 - [mrsimonemms/get-iplayer-workflow](https://github.com/mrsimonemms/get-iplayer-workflow) - Temporal workflow to download and sort stuff from the iPlayer
   (2 weeks ago)
@@ -72,12 +74,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) - Push Helm Charts to OCI-based registries
   (2 weeks ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (1 month ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.0),
+  1 day ago) - Common Golang helpers
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
-  1 day ago) - DevPod on Hetzner
+  2 days ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
   2 weeks ago) - Push Helm Charts to OCI-based registries
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.0](https://github.com/gethomepage/homepage/releases/tag/v1.4.0),
@@ -94,8 +96,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   5 months ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
   5 months ago) - The Kubefirst Open Source Platform
-- [konstructio/console](https://github.com/konstructio/console) ([v2.68.0](https://github.com/konstructio/console/releases/tag/v2.68.0),
-  5 months ago) - Kubefirst app console
 
 
 ## ⚡ My stats
