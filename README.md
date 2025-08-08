@@ -57,11 +57,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) - Build Temporal workflows with Serverless Workflow
   (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 days ago)
-- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (3 days ago)
+- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
+  (4 days ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (1 week ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -77,9 +77,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.3](https://github.com/gethomepage/homepage/releases/tag/v1.4.3),
-  4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.0),
-  6 days ago) - Common Golang helpers
+  1 week ago) - Common Golang helpers
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
   1 week ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
