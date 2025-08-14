@@ -56,14 +56,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 ## 👷 My recent contributions
 - [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) - Build Temporal workflows with Serverless Workflow
   (1 day ago)
-- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
-  (2 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 days ago)
+  (3 days ago)
+- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
+  (3 days ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (1 week ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (1 week ago)
+  (2 weeks ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
   (2 weeks ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
@@ -71,17 +71,19 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (3 weeks ago)
 - [mrsimonemms/get-iplayer-workflow](https://github.com/mrsimonemms/get-iplayer-workflow) - Temporal workflow to download and sort stuff from the iPlayer
-  (3 weeks ago)
+  (4 weeks ago)
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) - Push Helm Charts to OCI-based registries
   (4 weeks ago)
 
 ## 🔭 My latest releases
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.4](https://github.com/gethomepage/homepage/releases/tag/v1.4.4),
-  4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.5](https://github.com/gethomepage/homepage/releases/tag/v1.4.5),
+  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) ([v0.0.1](https://github.com/mrsimonemms/temporal-serverless-workflow/releases/tag/v0.0.1),
+  1 day ago) - Build Temporal workflows with Serverless Workflow
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.0),
   1 week ago) - Common Golang helpers
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
-  1 week ago) - DevPod on Hetzner
+  2 weeks ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
   4 weeks ago) - Push Helm Charts to OCI-based registries
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.3](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.3),
@@ -94,8 +96,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   5 months ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
   5 months ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.8.4](https://github.com/konstructio/kubefirst/releases/tag/v2.8.4),
-  5 months ago) - The Kubefirst Open Source Platform
 
 
 ## ⚡ My stats
