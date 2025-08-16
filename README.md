@@ -57,9 +57,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) - Build Temporal workflows with Serverless Workflow
   (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
-  (4 days ago)
+  (5 days ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (2 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
@@ -71,15 +71,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (3 weeks ago)
 - [mrsimonemms/get-iplayer-workflow](https://github.com/mrsimonemms/get-iplayer-workflow) - Temporal workflow to download and sort stuff from the iPlayer
-  (4 weeks ago)
+  (1 month ago)
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) - Push Helm Charts to OCI-based registries
   (1 month ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) ([v0.0.2](https://github.com/mrsimonemms/temporal-serverless-workflow/releases/tag/v0.0.2),
+  1 day ago) - Build Temporal workflows with Serverless Workflow
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.5](https://github.com/gethomepage/homepage/releases/tag/v1.4.5),
-  2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) ([v0.0.1](https://github.com/mrsimonemms/temporal-serverless-workflow/releases/tag/v0.0.1),
-  2 days ago) - Build Temporal workflows with Serverless Workflow
+  3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.0),
   2 weeks ago) - Common Golang helpers
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
@@ -89,7 +89,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.3](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.3),
   1 month ago) - Encode and decode your Temporal data
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) ([0.4.1](https://github.com/temporal-community/temporal-ai-agent/releases/tag/0.4.1),
-  1 month ago) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
+  2 months ago) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
 - [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.2.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.2.1),
   4 months ago) - Make your development databases gobble up known data
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
