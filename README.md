@@ -54,12 +54,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) - Build Temporal workflows with Serverless Workflow
-  (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (5 days ago)
+  (1 day ago)
+- [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) - Build Temporal workflows with Serverless Workflow
+  (2 days ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
-  (5 days ago)
+  (6 days ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (2 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
@@ -77,9 +77,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [mrsimonemms/temporal-serverless-workflow](https://github.com/mrsimonemms/temporal-serverless-workflow) ([v0.0.2](https://github.com/mrsimonemms/temporal-serverless-workflow/releases/tag/v0.0.2),
-  1 day ago) - Build Temporal workflows with Serverless Workflow
+  2 days ago) - Build Temporal workflows with Serverless Workflow
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.5](https://github.com/gethomepage/homepage/releases/tag/v1.4.5),
-  3 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.0),
   2 weeks ago) - Common Golang helpers
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
@@ -95,7 +95,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
   5 months ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
-  5 months ago) - upstream template for your open source gitops repository
+  6 months ago) - upstream template for your open source gitops repository
 
 
 ## ⚡ My stats
