@@ -55,15 +55,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 day ago)
+  (2 days ago)
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) - Build Temporal workflows from YAML
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (1 week ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (2 weeks ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (2 weeks ago)
+  (3 weeks ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
   (3 weeks ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
@@ -76,26 +76,26 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.9.0](https://github.com/konstructio/gitops-template/releases/tag/v2.9.0),
+  1 day ago) - upstream template for your open source gitops repository
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.9.0](https://github.com/konstructio/kubefirst/releases/tag/v2.9.0),
+  1 day ago) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.133.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.133.0),
+  1 day ago) - Kubefirst API that serves console frontend
+- [konstructio/console](https://github.com/konstructio/console) ([v2.70.0](https://github.com/konstructio/console/releases/tag/v2.70.0),
+  1 day ago) - Kubefirst app console
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) ([v0.0.2](https://github.com/mrsimonemms/temporal-dsl/releases/tag/v0.0.2),
-  5 days ago) - Build Temporal workflows from YAML
+  6 days ago) - Build Temporal workflows from YAML
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.5](https://github.com/gethomepage/homepage/releases/tag/v1.4.5),
   1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.0),
   2 weeks ago) - Common Golang helpers
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
-  2 weeks ago) - DevPod on Hetzner
+  3 weeks ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
   1 month ago) - Push Helm Charts to OCI-based registries
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.3](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.3),
   1 month ago) - Encode and decode your Temporal data
-- [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) ([0.4.1](https://github.com/temporal-community/temporal-ai-agent/releases/tag/0.4.1),
-  2 months ago) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
-- [mrsimonemms/gobblr](https://github.com/mrsimonemms/gobblr) ([v0.2.1](https://github.com/mrsimonemms/gobblr/releases/tag/v0.2.1),
-  4 months ago) - Make your development databases gobble up known data
-- [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.214.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.214.0),
-  5 months ago) - kubefirst documentation
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.8.4](https://github.com/konstructio/gitops-template/releases/tag/v2.8.4),
-  6 months ago) - upstream template for your open source gitops repository
 
 
 ## ⚡ My stats
