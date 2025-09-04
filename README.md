@@ -55,9 +55,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (5 days ago)
+  (1 day ago)
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) - Build Temporal workflows from YAML
-  (5 days ago)
+  (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 week ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
@@ -76,20 +76,20 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.3](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.3),
+  1 day ago) - Common Golang helpers
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) ([v0.0.6](https://github.com/mrsimonemms/temporal-dsl/releases/tag/v0.0.6),
-  5 days ago) - Build Temporal workflows from YAML
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.2](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.2),
-  5 days ago) - Common Golang helpers
+  6 days ago) - Build Temporal workflows from YAML
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.215.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.215.0),
-  6 days ago) - kubefirst documentation
+  1 week ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.9.1](https://github.com/konstructio/gitops-template/releases/tag/v2.9.1),
-  6 days ago) - upstream template for your open source gitops repository
+  1 week ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.9.1](https://github.com/konstructio/kubefirst/releases/tag/v2.9.1),
-  6 days ago) - The Kubefirst Open Source Platform
+  1 week ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.134.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.134.0),
-  6 days ago) - Kubefirst API that serves console frontend
+  1 week ago) - Kubefirst API that serves console frontend
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.4.6](https://github.com/gethomepage/homepage/releases/tag/v1.4.6),
-  1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  2 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
   1 month ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
