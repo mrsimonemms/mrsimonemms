@@ -57,7 +57,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) - Build Temporal workflows from YAML
   (1 day ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (5 days ago)
+  (6 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (2 weeks ago)
 - [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
@@ -76,10 +76,10 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (1 month ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) ([v0.0.7](https://github.com/mrsimonemms/temporal-dsl/releases/tag/v0.0.7),
+  1 day ago) - Build Temporal workflows from YAML
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.3.3](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.3.3),
-  5 days ago) - Common Golang helpers
-- [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) ([v0.0.6](https://github.com/mrsimonemms/temporal-dsl/releases/tag/v0.0.6),
-  1 week ago) - Build Temporal workflows from YAML
+  6 days ago) - Common Golang helpers
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.215.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.215.0),
   1 week ago) - kubefirst documentation
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.9.1](https://github.com/konstructio/gitops-template/releases/tag/v2.9.1),
