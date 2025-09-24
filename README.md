@@ -54,8 +54,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
+- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
+  (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 day ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 days ago)
+  (4 days ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (1 week ago)
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) - Build Temporal workflows from YAML
@@ -64,10 +68,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (2 weeks ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 month ago)
-- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
-  (1 month ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (1 month ago)
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -77,7 +77,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.5.0](https://github.com/gethomepage/homepage/releases/tag/v1.5.0),
-  1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  2 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.0),
   2 weeks ago) - Common Golang helpers
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) ([v0.0.7](https://github.com/mrsimonemms/temporal-dsl/releases/tag/v0.0.7),
