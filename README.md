@@ -63,7 +63,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (3 weeks ago)
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) - Build Temporal workflows from YAML
-  (3 weeks ago)
+  (4 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (1 month ago)
 - [mrsimonemms/better-auth-container](https://github.com/mrsimonemms/better-auth-container) - Use Better Auth as a container
@@ -77,9 +77,9 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.10.1](https://github.com/konstructio/gitops-template/releases/tag/v2.10.1),
-  1 week ago) - upstream template for your open source gitops repository
+  2 weeks ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.10.1](https://github.com/konstructio/kubefirst/releases/tag/v2.10.1),
-  1 week ago) - The Kubefirst Open Source Platform
+  2 weeks ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.135.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.135.0),
   2 weeks ago) - Kubefirst API that serves console frontend
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.5.0](https://github.com/gethomepage/homepage/releases/tag/v1.5.0),
