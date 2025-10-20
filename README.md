@@ -55,15 +55,15 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
-  (1 day ago)
-- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (1 week ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (2 weeks ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (3 weeks ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 weeks ago)
+  (1 month ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
-  (3 weeks ago)
+  (1 month ago)
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) - Build Temporal workflows from YAML
   (1 month ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
@@ -76,14 +76,14 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 
 ## 🔭 My latest releases
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.10.1](https://github.com/konstructio/gitops-template/releases/tag/v2.10.1),
-  2 weeks ago) - upstream template for your open source gitops repository
-- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.10.1](https://github.com/konstructio/kubefirst/releases/tag/v2.10.1),
-  2 weeks ago) - The Kubefirst Open Source Platform
+- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.10.2](https://github.com/konstructio/gitops-template/releases/tag/v2.10.2),
+  1 week ago) - upstream template for your open source gitops repository
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.10.2](https://github.com/konstructio/kubefirst/releases/tag/v2.10.2),
+  1 week ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.135.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.135.0),
-  2 weeks ago) - Kubefirst API that serves console frontend
+  3 weeks ago) - Kubefirst API that serves console frontend
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.5.0](https://github.com/gethomepage/homepage/releases/tag/v1.5.0),
-  3 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+  4 weeks ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.0),
   1 month ago) - Common Golang helpers
 - [mrsimonemms/temporal-dsl](https://github.com/mrsimonemms/temporal-dsl) ([v0.0.7](https://github.com/mrsimonemms/temporal-dsl/releases/tag/v0.0.7),
@@ -93,7 +93,7 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.0](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.0),
   2 months ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
-  2 months ago) - Push Helm Charts to OCI-based registries
+  3 months ago) - Push Helm Charts to OCI-based registries
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.3](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.3),
   3 months ago) - Encode and decode your Temporal data
 
