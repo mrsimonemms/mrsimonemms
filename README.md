@@ -55,18 +55,18 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) - Turn your declarative YAML into production-ready Temporal workflows
+  (1 day ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (2 days ago)
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
+- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) - Go SDK for Serverless Workflow
   (6 days ago)
 - [serverlessworkflow/serverlessworkflow.github.io](https://github.com/serverlessworkflow/serverlessworkflow.github.io) - Serverless Workflow Website
-  (6 days ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (1 week ago)
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (1 week ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) - 
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (1 month ago)
-- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) - Go SDK for Serverless Workflow
   (1 month ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
   (1 month ago)
@@ -76,12 +76,12 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.3.0](https://github.com/mrsimonemms/zigflow/releases/tag/v0.3.0),
+  1 day ago) - Turn your declarative YAML into production-ready Temporal workflows
+- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
+  5 days ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
-  6 days ago) - DevPod on Hetzner
-- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.1.0](https://github.com/mrsimonemms/zigflow/releases/tag/v0.1.0),
-  1 week ago) - Turn your declarative YAML into production-ready Temporal workflows
-- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.1.2](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.1.2),
-  1 week ago) - Go SDK for Serverless Workflow
+  1 week ago) - DevPod on Hetzner
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.1](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.1),
   1 month ago) - Common Golang helpers
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.10.3](https://github.com/konstructio/gitops-template/releases/tag/v2.10.3),
