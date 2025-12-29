@@ -54,18 +54,18 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) - Turn your declarative YAML into production-ready Temporal workflows
-  (2 days ago)
+- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) - A DSL for turning declarative YAML into production-ready Temporal workflows
+  (4 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (5 days ago)
-- [serverlessworkflow/serverlessworkflow.github.io](https://github.com/serverlessworkflow/serverlessworkflow.github.io) - Serverless Workflow Website
-  (6 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (1 week ago)
-- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) - Go SDK for Serverless Workflow
+- [serverlessworkflow/serverlessworkflow.github.io](https://github.com/serverlessworkflow/serverlessworkflow.github.io) - Serverless Workflow Website
+  (1 week ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (2 weeks ago)
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
+- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) - Go SDK for Serverless Workflow
   (3 weeks ago)
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
+  (1 month ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) - 
   (1 month ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
@@ -76,24 +76,24 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   (2 months ago)
 
 ## 🔭 My latest releases
+- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.5.0](https://github.com/mrsimonemms/zigflow/releases/tag/v0.5.0),
+  4 days ago) - A DSL for turning declarative YAML into production-ready Temporal workflows
 - [fission/fission](https://github.com/fission/fission) ([v1.22.0](https://github.com/fission/fission/releases/tag/v1.22.0),
-  4 days ago) - Fast and Simple Serverless Functions for Kubernetes
-- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.4.1](https://github.com/mrsimonemms/zigflow/releases/tag/v0.4.1),
-  1 week ago) - Turn your declarative YAML into production-ready Temporal workflows
+  1 week ago) - Fast and Simple Serverless Functions for Kubernetes
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
-  2 weeks ago) - Go SDK for Serverless Workflow
+  3 weeks ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
-  3 weeks ago) - DevPod on Hetzner
+  1 month ago) - DevPod on Hetzner
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.1](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.1),
   1 month ago) - Common Golang helpers
 - [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.10.3](https://github.com/konstructio/gitops-template/releases/tag/v2.10.3),
-  1 month ago) - upstream template for your open source gitops repository
+  2 months ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.10.3](https://github.com/konstructio/kubefirst/releases/tag/v2.10.3),
-  1 month ago) - The Kubefirst Open Source Platform
+  2 months ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.135.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.135.0),
-  2 months ago) - Kubefirst API that serves console frontend
+  3 months ago) - Kubefirst API that serves console frontend
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.215.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.215.0),
-  3 months ago) - kubefirst documentation
+  4 months ago) - kubefirst documentation
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
   5 months ago) - Push Helm Charts to OCI-based registries
 
