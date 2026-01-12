@@ -54,38 +54,36 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
+- [mrsimonemms/get-iplayer-helper](https://github.com/mrsimonemms/get-iplayer-helper) - Helper functions for working with Get iPlayer
+  (1 day ago)
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (1 day ago)
 - [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) - A Temporal DSL for turning declarative YAML into production-ready workflows
   (1 day ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 weeks ago)
-- [serverlessworkflow/serverlessworkflow.github.io](https://github.com/serverlessworkflow/serverlessworkflow.github.io) - Serverless Workflow Website
-  (2 weeks ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (3 weeks ago)
+- [serverlessworkflow/serverlessworkflow.github.io](https://github.com/serverlessworkflow/serverlessworkflow.github.io) - Serverless Workflow Website
+  (3 weeks ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (4 weeks ago)
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) - Go SDK for Serverless Workflow
   (1 month ago)
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
   (1 month ago)
 - [mrsimonemms/.github](https://github.com/mrsimonemms/.github) - 
   (1 month ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (2 months ago)
 - [mrsimonemms/priorsleehoney.co.uk](https://github.com/mrsimonemms/priorsleehoney.co.uk) - Priorslee Honey website
-  (2 months ago)
-- [mrsimonemms/temporal-demos](https://github.com/mrsimonemms/temporal-demos) - Collection of Temporal demos
   (3 months ago)
 
 ## 🔭 My latest releases
-- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.6.0](https://github.com/mrsimonemms/zigflow/releases/tag/v0.6.0),
-  3 days ago) - A Temporal DSL for turning declarative YAML into production-ready workflows
+- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.6.6](https://github.com/mrsimonemms/zigflow/releases/tag/v0.6.6),
+  1 day ago) - A Temporal DSL for turning declarative YAML into production-ready workflows
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.2](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.2),
+  1 day ago) - Common Golang helpers
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
   1 month ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
   1 month ago) - DevPod on Hetzner
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.1](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.1),
-  2 months ago) - Common Golang helpers
-- [konstructio/gitops-template](https://github.com/konstructio/gitops-template) ([v2.10.3](https://github.com/konstructio/gitops-template/releases/tag/v2.10.3),
-  2 months ago) - upstream template for your open source gitops repository
 - [konstructio/kubefirst](https://github.com/konstructio/kubefirst) ([v2.10.3](https://github.com/konstructio/kubefirst/releases/tag/v2.10.3),
   2 months ago) - The Kubefirst Open Source Platform
 - [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) ([v0.135.0](https://github.com/konstructio/kubefirst-api/releases/tag/v0.135.0),
@@ -93,9 +91,11 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [konstructio/kubefirst-docs](https://github.com/konstructio/kubefirst-docs) ([1.215.0](https://github.com/konstructio/kubefirst-docs/releases/tag/1.215.0),
   4 months ago) - kubefirst documentation
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
-  5 months ago) - Push Helm Charts to OCI-based registries
+  6 months ago) - Push Helm Charts to OCI-based registries
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.4.3](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.4.3),
-  5 months ago) - Encode and decode your Temporal data
+  6 months ago) - Encode and decode your Temporal data
+- [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) ([0.4.1](https://github.com/temporal-community/temporal-ai-agent/releases/tag/0.4.1),
+  6 months ago) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
 
 
 ## ⚡ My stats
