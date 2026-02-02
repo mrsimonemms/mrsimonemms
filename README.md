@@ -55,33 +55,33 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) - A Temporal DSL for turning declarative YAML into production-ready workflows
-  (1 day ago)
+  (2 days ago)
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (3 days ago)
+- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
+  (4 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (4 days ago)
-- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
-  (1 week ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (1 week ago)
-- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
+  (2 weeks ago)
+- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
   (2 weeks ago)
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) - Go SDK for Serverless Workflow
-  (2 weeks ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (2 weeks ago)
+  (3 weeks ago)
+- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
+  (3 weeks ago)
 - [mrsimonemms/get-iplayer-helper](https://github.com/mrsimonemms/get-iplayer-helper) - Helper functions for working with Get iPlayer
-  (2 weeks ago)
+  (3 weeks ago)
 - [serverlessworkflow/serverlessworkflow.github.io](https://github.com/serverlessworkflow/serverlessworkflow.github.io) - Serverless Workflow Website
   (1 month ago)
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) - DevPod on Hetzner
-  (2 months ago)
 
 ## 🔭 My latest releases
-- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.6.9](https://github.com/mrsimonemms/zigflow/releases/tag/v0.6.9),
-  3 days ago) - A Temporal DSL for turning declarative YAML into production-ready workflows
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.2](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.2),
-  2 weeks ago) - Common Golang helpers
+- [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.6.11](https://github.com/mrsimonemms/zigflow/releases/tag/v0.6.11),
+  2 days ago) - A Temporal DSL for turning declarative YAML into production-ready workflows
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.4.3](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.4.3),
+  3 days ago) - Common Golang helpers
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
-  1 month ago) - Go SDK for Serverless Workflow
+  2 months ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
   2 months ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
