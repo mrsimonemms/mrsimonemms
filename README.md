@@ -56,32 +56,32 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 ## 👷 My recent contributions
 - [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) - A Temporal DSL for turning declarative YAML into production-ready workflows
   (1 day ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
   (4 days ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+  (1 week ago)
 - [mrsimonemms/temporal-external-activity](https://github.com/mrsimonemms/temporal-external-activity) - A Temporal workflow that offloads a long-running, resource-intensive activity to external compute.
-  (5 days ago)
+  (1 week ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
-  (1 week ago)
+  (2 weeks ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (2 weeks ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (2 weeks ago)
-- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
   (3 weeks ago)
-- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (3 weeks ago)
+- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
   (1 month ago)
 
 ## 🔭 My latest releases
 - [mrsimonemms/zigflow](https://github.com/mrsimonemms/zigflow) ([v0.8.0](https://github.com/mrsimonemms/zigflow/releases/tag/v0.8.0),
-  3 days ago) - A Temporal DSL for turning declarative YAML into production-ready workflows
+  1 week ago) - A Temporal DSL for turning declarative YAML into production-ready workflows
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.5.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.5.0),
-  1 week ago) - Encode and decode your Temporal data
+  2 weeks ago) - Encode and decode your Temporal data
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.5.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.5.0),
-  2 weeks ago) - Common Golang helpers
+  3 weeks ago) - Common Golang helpers
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
   2 months ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
