@@ -54,22 +54,22 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (1 day ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
-  (1 day ago)
-- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
   (2 days ago)
-- [mrsimonemms/document-processing-demo](https://github.com/mrsimonemms/document-processing-demo) - Canonical document processing demo showcasing resilient AI workflows with Temporal
-  (4 days ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (5 days ago)
-- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
-  (5 days ago)
 - [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (2 weeks ago)
+  (4 days ago)
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
+  (1 week ago)
+- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
+  (1 week ago)
+- [mrsimonemms/document-processing-demo](https://github.com/mrsimonemms/document-processing-demo) - Canonical document processing demo showcasing resilient AI workflows with Temporal
+  (1 week ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+  (1 week ago)
+- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
+  (1 week ago)
 - [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
-  (3 weeks ago)
+  (4 weeks ago)
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
   (1 month ago)
 - [mrsimonemms/temporal-external-activity](https://github.com/mrsimonemms/temporal-external-activity) - A Temporal workflow that offloads a long-running, resource-intensive activity to external compute.
@@ -77,13 +77,13 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 🔭 My latest releases
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.6.0](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.6.0),
-  1 day ago) - Common Golang helpers
+  1 week ago) - Common Golang helpers
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.9.1](https://github.com/zigflow/zigflow/releases/tag/v0.9.1),
-  1 week ago) - Define durable workflows in YAML, powered by Temporal
+  2 weeks ago) - Define durable workflows in YAML, powered by Temporal
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.5.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.5.0),
   1 month ago) - Encode and decode your Temporal data
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
-  3 months ago) - Go SDK for Serverless Workflow
+  4 months ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
   4 months ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
