@@ -54,36 +54,38 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
-  (1 day ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
   (1 day ago)
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (2 days ago)
-- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
-  (6 days ago)
-- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
-  (6 days ago)
-- [mrsimonemms/temporal-go-starter](https://github.com/mrsimonemms/temporal-go-starter) - A starter template for using Temporal with Go
-  (1 week ago)
+- [zigflow/setup-zigflow](https://github.com/zigflow/setup-zigflow) -  Set up your GitHub Actions workflow with a specific version of Zigflow
+  (4 days ago)
+- [antmendoza/booking-workshop](https://github.com/antmendoza/booking-workshop) - 
+  (5 days ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+  (6 days ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 week ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (1 week ago)
-- [mrsimonemms/mrsimonemms.github.io](https://github.com/mrsimonemms/mrsimonemms.github.io) - My website
+- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
+  (1 week ago)
+- [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
+  (1 week ago)
+- [mrsimonemms/temporal-go-starter](https://github.com/mrsimonemms/temporal-go-starter) - A starter template for using Temporal with Go
   (2 weeks ago)
-- [mrsimonemms/temporal-rate-limiter](https://github.com/mrsimonemms/temporal-rate-limiter) - Rate limit with Temporal
-  (1 month ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (2 weeks ago)
 
 ## 🔭 My latest releases
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.12.1](https://github.com/zigflow/zigflow/releases/tag/v0.12.1),
+  1 day ago) - Define durable workflows in YAML, powered by Temporal
+- [zigflow/setup-zigflow](https://github.com/zigflow/setup-zigflow) ([v0](https://github.com/zigflow/setup-zigflow/releases/tag/v0),
+  4 days ago) -  Set up your GitHub Actions workflow with a specific version of Zigflow
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.7.5](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.7.5),
-  2 days ago) - Common Golang helpers
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.11.3](https://github.com/zigflow/zigflow/releases/tag/v0.11.3),
-  1 week ago) - Define durable workflows in YAML, powered by Temporal
+  1 week ago) - Common Golang helpers
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.5.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.5.0),
   3 months ago) - Encode and decode your Temporal data
 - [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
-  5 months ago) - Go SDK for Serverless Workflow
+  6 months ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
   6 months ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
