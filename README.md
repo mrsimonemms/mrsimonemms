@@ -54,40 +54,40 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
-  (4 days ago)
-- [mrsimonemms/temporal-kiosk](https://github.com/mrsimonemms/temporal-kiosk) - Kiosk app for conferences
-  (4 days ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
+  (1 day ago)
+- [zigflow/schema](https://github.com/zigflow/schema) - Public schema for Zigflow
+  (3 days ago)
+- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
   (6 days ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+- [mrsimonemms/temporal-kiosk](https://github.com/mrsimonemms/temporal-kiosk) - Kiosk app for conferences
   (1 week ago)
+- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
+  (2 weeks ago)
 - [zigflow/setup-zigflow](https://github.com/zigflow/setup-zigflow) -  Set up your GitHub Actions workflow with a specific version of Zigflow
-  (3 weeks ago)
+  (1 month ago)
 - [antmendoza/booking-workshop](https://github.com/antmendoza/booking-workshop) - 
-  (3 weeks ago)
+  (1 month ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 weeks ago)
+  (1 month ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
   (1 month ago)
 - [mrsimonemms/eventually-eats](https://github.com/mrsimonemms/eventually-eats) - Your food. Exactly once. Eventually.
   (1 month ago)
-- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
-  (1 month ago)
 
 ## 🔭 My latest releases
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.13.0](https://github.com/zigflow/zigflow/releases/tag/v0.13.0),
-  1 week ago) - Define durable workflows in YAML, powered by Temporal
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.14.0](https://github.com/zigflow/zigflow/releases/tag/v0.14.0),
+  2 days ago) - Define durable workflows in YAML, powered by Temporal
+- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.4.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.4.0),
+  2 days ago) - Go SDK for Serverless Workflow
 - [zigflow/setup-zigflow](https://github.com/zigflow/setup-zigflow) ([v0](https://github.com/zigflow/setup-zigflow/releases/tag/v0),
-  3 weeks ago) -  Set up your GitHub Actions workflow with a specific version of Zigflow
+  1 month ago) -  Set up your GitHub Actions workflow with a specific version of Zigflow
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.7.5](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.7.5),
   1 month ago) - Common Golang helpers
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.5.0](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.5.0),
   4 months ago) - Encode and decode your Temporal data
-- [serverlessworkflow/sdk-go](https://github.com/serverlessworkflow/sdk-go) ([v3.2.0](https://github.com/serverlessworkflow/sdk-go/releases/tag/v3.2.0),
-  6 months ago) - Go SDK for Serverless Workflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
-  6 months ago) - DevPod on Hetzner
+  7 months ago) - DevPod on Hetzner
 - [appany/helm-oci-chart-releaser](https://github.com/appany/helm-oci-chart-releaser) ([v0.5.0](https://github.com/appany/helm-oci-chart-releaser/releases/tag/v0.5.0),
   11 months ago) - Push Helm Charts to OCI-based registries
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) ([0.4.1](https://github.com/temporal-community/temporal-ai-agent/releases/tag/0.4.1),
