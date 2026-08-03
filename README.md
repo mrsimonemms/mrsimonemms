@@ -55,31 +55,33 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
-  (3 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (3 days ago)
-- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
+  (2 days ago)
+- [mrsimonemms/temporal-external-activity](https://github.com/mrsimonemms/temporal-external-activity) - A Temporal workflow that offloads a long-running, resource-intensive activity to external compute.
   (6 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (1 week ago)
+- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
+  (1 week ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (1 week ago)
-- [zigflow/demos](https://github.com/zigflow/demos) - A Zigflow demo repo
-  (1 week ago)
-- [mrsimonemms/order-manager](https://github.com/mrsimonemms/order-manager) - 
   (2 weeks ago)
+- [zigflow/demos](https://github.com/zigflow/demos) - A Zigflow demo repo
+  (2 weeks ago)
+- [mrsimonemms/order-manager](https://github.com/mrsimonemms/order-manager) - 
+  (3 weeks ago)
 - [morat-morat/temporal-we-are-developers](https://github.com/morat-morat/temporal-we-are-developers) - Information page for attendees at We Are Developers
-  (3 weeks ago)
+  (4 weeks ago)
 - [mrsimonemms/temporal-kiosk](https://github.com/mrsimonemms/temporal-kiosk) - Kiosk app for conferences
-  (3 weeks ago)
+  (4 weeks ago)
 - [zigflow/schema](https://github.com/zigflow/schema) - Public schema for Zigflow
-  (3 weeks ago)
-- [mrsimonemms/infrastructure](https://github.com/mrsimonemms/infrastructure) - My infrastructure
   (1 month ago)
 
 ## 🔭 My latest releases
+- [open-workflow-specification/specification](https://github.com/open-workflow-specification/specification) ([v1.0.3](https://github.com/open-workflow-specification/specification/releases/tag/v1.0.3),
+  3 days ago) - Contains the official specification for the Open Workflow Specification Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.14.2](https://github.com/zigflow/zigflow/releases/tag/v0.14.2),
-  1 week ago) - Define durable workflows in YAML, powered by Temporal
+  2 weeks ago) - Define durable workflows in YAML, powered by Temporal
 - [open-workflow-specification/sdk-go](https://github.com/open-workflow-specification/sdk-go) ([v4.0.0](https://github.com/open-workflow-specification/sdk-go/releases/tag/v4.0.0),
-  1 week ago) - Go SDK for Open Workflow
+  2 weeks ago) - Go SDK for Open Workflow
 - [zigflow/setup-zigflow](https://github.com/zigflow/setup-zigflow) ([v0](https://github.com/zigflow/setup-zigflow/releases/tag/v0),
   2 months ago) -  Set up your GitHub Actions workflow with a specific version of Zigflow
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.7.5](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.7.5),
@@ -88,10 +90,6 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
   5 months ago) - Encode and decode your Temporal data
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
   8 months ago) - DevPod on Hetzner
-- [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) ([0.4.1](https://github.com/temporal-community/temporal-ai-agent/releases/tag/0.4.1),
-  1 year ago) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
-- [open-workflow-specification/specification](https://github.com/open-workflow-specification/specification) ([v1.0.0](https://github.com/open-workflow-specification/specification/releases/tag/v1.0.0),
-  2 years ago) - Contains the official specification for the Open Workflow Specification Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
 
 
 ## ⚡ My stats
