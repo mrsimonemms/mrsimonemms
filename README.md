@@ -54,18 +54,18 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
-  (3 days ago)
-- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
-  (4 days ago)
-- [mrsimonemms/temporal-resource-operator](https://github.com/mrsimonemms/temporal-resource-operator) - A Kubernetes operator for managing Temporal resources across Temporal Cloud and self-hosted
-  (6 days ago)
-- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (3 weeks ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 weeks ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
+  (4 days ago)
+- [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
+  (1 week ago)
+- [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) - A Temporal workflow to demonstrate encryption
+  (1 week ago)
+- [mrsimonemms/temporal-resource-operator](https://github.com/mrsimonemms/temporal-resource-operator) - A Kubernetes operator for managing Temporal resources across Temporal Cloud and self-hosted
+  (1 week ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
   (4 weeks ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+  (1 month ago)
 - [mrsimonemms/temporal-external-activity](https://github.com/mrsimonemms/temporal-external-activity) - A Temporal workflow that offloads a long-running, resource-intensive activity to external compute.
   (1 month ago)
 - [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
@@ -73,17 +73,17 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 - [zigflow/demos](https://github.com/zigflow/demos) - A Zigflow demo repo
   (1 month ago)
 - [mrsimonemms/order-manager](https://github.com/mrsimonemms/order-manager) - 
-  (1 month ago)
+  (2 months ago)
 
 ## 🔭 My latest releases
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.14.4](https://github.com/zigflow/zigflow/releases/tag/v0.14.4),
+  4 days ago) - Define durable workflows in YAML, powered by Temporal
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.6.1](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.6.1),
-  3 days ago) - Encode and decode your Temporal data
+  1 week ago) - Encode and decode your Temporal data
 - [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) ([v0.1.0](https://github.com/mrsimonemms/temporal-encryption-demo/releases/tag/v0.1.0),
-  4 days ago) - A Temporal workflow to demonstrate encryption
+  1 week ago) - A Temporal workflow to demonstrate encryption
 - [mrsimonemms/temporal-resource-operator](https://github.com/mrsimonemms/temporal-resource-operator) ([v0.1.1](https://github.com/mrsimonemms/temporal-resource-operator/releases/tag/v0.1.1),
-  1 week ago) - A Kubernetes operator for managing Temporal resources across Temporal Cloud and self-hosted
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.15.0-rc1](https://github.com/zigflow/zigflow/releases/tag/v0.15.0-rc1),
-  4 weeks ago) - Define durable workflows in YAML, powered by Temporal
+  2 weeks ago) - A Kubernetes operator for managing Temporal resources across Temporal Cloud and self-hosted
 - [open-workflow-specification/specification](https://github.com/open-workflow-specification/specification) ([v1.0.3](https://github.com/open-workflow-specification/specification/releases/tag/v1.0.3),
   1 month ago) - Contains the official specification for the Open Workflow Specification Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
 - [open-workflow-specification/sdk-go](https://github.com/open-workflow-specification/sdk-go) ([v4.0.0](https://github.com/open-workflow-specification/sdk-go/releases/tag/v4.0.0),
