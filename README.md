@@ -54,34 +54,34 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 
 ## 👷 My recent contributions
-- [zigflow/starter](https://github.com/zigflow/starter) - A starter template for creating Zigflow workflows
-  (1 day ago)
-- [mrsimonemms/zigflow-workflows](https://github.com/mrsimonemms/zigflow-workflows) - My Zigflow workflows
-  (1 day ago)
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
-  (2 days ago)
-- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
+  (1 day ago)
+- [zigflow/helpers](https://github.com/zigflow/helpers) - A collection of Temporal helpers
+  (1 day ago)
+- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
+  (6 days ago)
+- [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
+  (1 week ago)
+- [zigflow/starter](https://github.com/zigflow/starter) - A starter template for creating Zigflow workflows
   (1 week ago)
 - [zigflow/schema](https://github.com/zigflow/schema) - Public schema for Zigflow
-  (1 week ago)
+  (2 weeks ago)
+- [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
+  (2 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (1 week ago)
-- [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (3 weeks ago)
-- [zigflow/helpers](https://github.com/zigflow/helpers) - A collection of Temporal helpers
-  (3 weeks ago)
+  (2 weeks ago)
 - [mrsimonemms/temporal-go-starter](https://github.com/mrsimonemms/temporal-go-starter) - A starter template for using Temporal with Go
   (1 month ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (1 month ago)
 
 ## 🔭 My latest releases
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.17.1](https://github.com/zigflow/zigflow/releases/tag/v0.17.1),
+  1 day ago) - Define durable workflows in YAML, powered by Temporal
+- [zigflow/helpers](https://github.com/zigflow/helpers) ([v0.2.3](https://github.com/zigflow/helpers/releases/tag/v0.2.3),
+  1 day ago) - A collection of Temporal helpers
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.8.1](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.8.1),
-  1 week ago) - Common Golang helpers
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.16.0](https://github.com/zigflow/zigflow/releases/tag/v0.16.0),
-  2 weeks ago) - Define durable workflows in YAML, powered by Temporal
-- [zigflow/helpers](https://github.com/zigflow/helpers) ([v0.2.0](https://github.com/zigflow/helpers/releases/tag/v0.2.0),
-  3 weeks ago) - A collection of Temporal helpers
+  2 weeks ago) - Common Golang helpers
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.6.1](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.6.1),
   1 month ago) - Encode and decode your Temporal data
 - [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) ([v0.1.0](https://github.com/mrsimonemms/temporal-encryption-demo/releases/tag/v0.1.0),
