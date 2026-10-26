@@ -55,47 +55,47 @@ I'm also on [Twitter](https://twitter/theshroppiebeek) and [LinkedIn](https://ww
 
 ## 👷 My recent contributions
 - [zigflow/zigflow](https://github.com/zigflow/zigflow) - Define durable workflows in YAML, powered by Temporal
-  (1 day ago)
+  (3 days ago)
 - [zigflow/helpers](https://github.com/zigflow/helpers) - A collection of Temporal helpers
-  (1 day ago)
+  (1 week ago)
 - [mrsimonemms/devcontainers](https://github.com/mrsimonemms/devcontainers) - Prebuilt development container images
-  (6 days ago)
+  (1 week ago)
 - [mrsimonemms/new](https://github.com/mrsimonemms/new) - How I scaffold my projects
-  (1 week ago)
+  (2 weeks ago)
 - [zigflow/starter](https://github.com/zigflow/starter) - A starter template for creating Zigflow workflows
-  (1 week ago)
+  (2 weeks ago)
 - [zigflow/schema](https://github.com/zigflow/schema) - Public schema for Zigflow
-  (2 weeks ago)
+  (3 weeks ago)
 - [zigflow/studio](https://github.com/zigflow/studio) - A drag and drop UI for building Temporal workflows
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) - Common Golang helpers
-  (2 weeks ago)
+  (3 weeks ago)
 - [mrsimonemms/temporal-go-starter](https://github.com/mrsimonemms/temporal-go-starter) - A starter template for using Temporal with Go
   (1 month ago)
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) - Encode and decode your Temporal data
   (1 month ago)
 
 ## 🔭 My latest releases
-- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.17.1](https://github.com/zigflow/zigflow/releases/tag/v0.17.1),
-  1 day ago) - Define durable workflows in YAML, powered by Temporal
+- [zigflow/zigflow](https://github.com/zigflow/zigflow) ([v0.18.0](https://github.com/zigflow/zigflow/releases/tag/v0.18.0),
+  3 days ago) - Define durable workflows in YAML, powered by Temporal
+- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.8.2](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.8.2),
+  1 week ago) - Common Golang helpers
 - [zigflow/helpers](https://github.com/zigflow/helpers) ([v0.2.3](https://github.com/zigflow/helpers/releases/tag/v0.2.3),
-  1 day ago) - A collection of Temporal helpers
-- [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) ([v0.8.1](https://github.com/mrsimonemms/golang-helpers/releases/tag/v0.8.1),
-  2 weeks ago) - Common Golang helpers
+  1 week ago) - A collection of Temporal helpers
 - [mrsimonemms/temporal-codec-server](https://github.com/mrsimonemms/temporal-codec-server) ([v0.6.1](https://github.com/mrsimonemms/temporal-codec-server/releases/tag/v0.6.1),
   1 month ago) - Encode and decode your Temporal data
 - [mrsimonemms/temporal-encryption-demo](https://github.com/mrsimonemms/temporal-encryption-demo) ([v0.1.0](https://github.com/mrsimonemms/temporal-encryption-demo/releases/tag/v0.1.0),
-  1 month ago) - A Temporal workflow to demonstrate encryption
+  2 months ago) - A Temporal workflow to demonstrate encryption
 - [mrsimonemms/temporal-resource-operator](https://github.com/mrsimonemms/temporal-resource-operator) ([v0.1.1](https://github.com/mrsimonemms/temporal-resource-operator/releases/tag/v0.1.1),
-  1 month ago) - A Kubernetes operator for managing Temporal resources across Temporal Cloud and self-hosted
+  2 months ago) - A Kubernetes operator for managing Temporal resources across Temporal Cloud and self-hosted
 - [open-workflow-specification/specification](https://github.com/open-workflow-specification/specification) ([v1.0.3](https://github.com/open-workflow-specification/specification/releases/tag/v1.0.3),
   2 months ago) - Contains the official specification for the Open Workflow Specification Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.
 - [open-workflow-specification/sdk-go](https://github.com/open-workflow-specification/sdk-go) ([v4.0.0](https://github.com/open-workflow-specification/sdk-go/releases/tag/v4.0.0),
   3 months ago) - Go SDK for Open Workflow
 - [zigflow/setup-zigflow](https://github.com/zigflow/setup-zigflow) ([v0](https://github.com/zigflow/setup-zigflow/releases/tag/v0),
-  4 months ago) -  Set up your GitHub Actions workflow with a specific version of Zigflow
+  5 months ago) -  Set up your GitHub Actions workflow with a specific version of Zigflow
 - [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v1.0.1](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v1.0.1),
-  10 months ago) - DevPod on Hetzner
+  11 months ago) - DevPod on Hetzner
 
 
 ## ⚡ My stats
